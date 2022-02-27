@@ -1,0 +1,892 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The doctresse: a plain and easie method, of curing those diseases which are peculiar to women. Whereunto are annexed physicall paradoxes, or a new discovery of the æconomy of nature in mans body. / Written by R.B. &amp;c.</title>
+            <author>Bunworth, Richard.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 133 KB of XML-encoded text transcribed from 81 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77802</idno>
+            <idno type="STC">Wing B5474</idno>
+            <idno type="STC">Thomason E1714_2</idno>
+            <idno type="STC">ESTC R209649</idno>
+            <idno type="EEBO-CITATION">99868514</idno>
+            <idno type="PROQUEST">99868514</idno>
+            <idno type="VID">170299</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77802)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170299)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 213:E1714[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The doctresse: a plain and easie method, of curing those diseases which are peculiar to women. Whereunto are annexed physicall paradoxes, or a new discovery of the æconomy of nature in mans body. / Written by R.B. &amp;c.</title>
+                  <author>Bunworth, Richard.</author>
+               </titleStmt>
+               <extent>[12], 150 [i.e. 149], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.F. for Nicolas Bourne, at the South entrance of the Royal Exchange.,</publisher>
+                  <pubPlace>London. :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Physicall paradoxes" begins on page [77] with a caption title.</note>
+                  <note>Annotation on Thomason copy: "May 30".</note>
+                  <note>Page 145 skipped in pagination, with even numbered rectos beginning with page 146.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  15-18th centuries.</term>
+               <term>Women --  Diseases --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-04</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170299:1" rendition="simple:additions"/>
+            <p>THE DOCTRESSE: A plain and eaſie method, of curing thoſe diſeaſes which are peculiar to Women.</p>
+            <p>Whereunto are annexed <hi>Phyſicall Paradoxes,</hi> OR A new diſcovery of the aeconomy of nature in mans body.</p>
+            <p>Written by <hi>R. B.</hi> &amp;c.</p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>J. F.</hi> for <hi>Nicolas Bourne,</hi> at the <hi>South entrance</hi> of the Royal <hi>Exchange.</hi> 1656.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170299:2"/>
+            <pb facs="tcp:170299:2"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">H</seg>Aving continuall ex<g ref="char:EOLhyphen"/>perience in a more particular manner in thoſe diſeaſes which are pe<g ref="char:EOLhyphen"/>culiar to women, by reaſon of my conſtant and daily employ<g ref="char:EOLhyphen"/>ment, which is, to be aſſiſtant to thoſe that have hard and dif<g ref="char:EOLhyphen"/>ficult labours; I conceive my ſelfe in ſome capacity to become yet more ſerviceable unto the female ſex, by divulging that part of my practiſe in the cure
+<pb facs="tcp:170299:3"/> of womens diſeaſes which I have obſerved to have been moſt ſuc<g ref="char:EOLhyphen"/>cesfull.</p>
+            <p>Herein I am ſo farr from making collections out of Au<g ref="char:EOLhyphen"/>thours, that I have on purpoſe for brevities ſake omitted all thoſe things in my own practiſe which I know to be familiar unto moſt Phyſitians: and have divulged onely ſuch as I find by experience to be proficuous, and have not been hitherto publi<g ref="char:EOLhyphen"/>ſhed.</p>
+            <p>This, <hi>Courteous Reader,</hi> I thought good to premiſe; and
+<pb facs="tcp:170299:3"/> withall to advertiſe thee of my intent herein, which is to in<g ref="char:EOLhyphen"/>forme the ignorant, and to give ſome hints to the learned: that ſo I may doe reall ſervice to the female ſex. Wherein you may alſo take notice that I am ſomewhat indulgent to their modeſty in avoiding all obſce<g ref="char:EOLhyphen"/>nity, as alſo to their capacity in writing in our mother tongue.</p>
+            <p>Hereunto I have annexed that which you find in the title page, <hi>viz. Phyſicall para<g ref="char:EOLhyphen"/>doxes &amp;c.</hi> The firſt, of wo<g ref="char:EOLhyphen"/>mens diſeaſes is plain and ob<g ref="char:EOLhyphen"/>vious
+<pb facs="tcp:170299:4"/> to all. And this latter is not obſcure: yet I would ad<g ref="char:EOLhyphen"/>viſe the <hi>Courteous Reader,</hi> to read it twice over; firſt cur<g ref="char:EOLhyphen"/>ſorily, that thou maiſt have a generall conceit of the thing I do intend: and then with ſome obſervation, that thou maiſt ſo digeſt it as to make it thine owne. It gives me ſo much ſa<g ref="char:EOLhyphen"/>tisfaction as I am not able to expreſſe: in that it makes clear unto me all thoſe <hi>Phyſicall Notions,</hi> which before upon other hypotheſes were more con<g ref="char:EOLhyphen"/>fuſed in mine underſtanding.
+<pb facs="tcp:170299:4"/> And I cannot but hope that it will do the like to any one elſe who ſhall read and digeſt it.</p>
+            <p>There is not any thing to my knowledge, upon this account, difficult in Phyſick: but all things may hereby be ſo clearly demonſtrated from ſenſible ex<g ref="char:EOLhyphen"/>perience how they worke gene<g ref="char:EOLhyphen"/>rally upon mans body, and how each particular hath alſo its pri<g ref="char:EOLhyphen"/>vate operation: that I cannot but admire how it could be poſ<g ref="char:EOLhyphen"/>ſible that it ſhould lie hidden ſo many ages, yet I am not igno<g ref="char:EOLhyphen"/>rant that now at the laſt it will
+<pb facs="tcp:170299:5"/> find amongſt ſome but ſlender entertainment, eſpecially a<g ref="char:EOLhyphen"/>mongſt thoſe which diſlike all things but their owne. How<g ref="char:EOLhyphen"/>ever Courteous Reader, I here preſent it unto thee, ſuppoſing thou wilt be in thy cenſure nei<g ref="char:EOLhyphen"/>ther uncandid nor diſingenious, ſo hoping it will give thee ſome ſatisfaction I reſt</p>
+            <closer>
+               <signed>Thine to uſe <hi>Rich: Bunworth.</hi>
+               </signed>
+               <dateline>
+                  <hi>From the ſugar loafe in</hi> Duck-lane London. <date>May. <hi>1656</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:170299:5"/>
+            <head>A Table of the <hi>Chapters.</hi>
+            </head>
+            <list>
+               <item>
+                  <label>CHAP. I</label> GEneral obſervations concerning womens diſeaſes. <hi>page</hi> 1.</item>
+               <item>
+                  <label>CHAP. II</label> To procure the months. <hi>page</hi> 10</item>
+               <item>
+                  <label>CHAP. III</label> To ſtop the immoderate flowing of the months. <hi>page</hi> 20</item>
+               <item>
+                  <label>
+                     <pb facs="tcp:170299:6"/>CHAP. IV</label> For the riſing of the <hi>matrix</hi> or wombe called com<g ref="char:EOLhyphen"/>monly the mother <hi>page</hi> 28</item>
+               <item>
+                  <label>CHAP. V</label> For the falling downe of the wombe. <hi>page</hi> 35</item>
+               <item>
+                  <label>CHAP. VI</label> To ſtop the flowing of the whites. <hi>page</hi> 38</item>
+               <item>
+                  <label>CHAP. VII</label> For the Chloroſy or green ſickneſs. <hi>page</hi> 41</item>
+               <item>
+                  <label>
+                     <pb facs="tcp:170299:6"/>CHAP. VIII.</label> To prevent abortiveneſs or miſcarriage. <hi>page</hi> 46</item>
+               <item>
+                  <label>CHAP. IX</label> Sterility or Barrenneſs. <hi>page</hi> 50</item>
+               <item>
+                  <label>CHAP. X</label> To cauſe ſpeedy delivery in child-birth <hi>page</hi> 57</item>
+               <item>
+                  <label>CHAP. XI</label> To expel the ſecondine or Afterbirth <hi>page</hi> 60</item>
+               <item>
+                  <label>CHAP. XII</label> For the overflowing of
+<pb facs="tcp:170299:7"/> milke in womens breaſts. <hi>page</hi> 62</item>
+               <item>
+                  <label>CHAP. XIII</label> To dry up the milke in womens breaſts <hi>page</hi> 64</item>
+               <item>
+                  <label>CHAP. XIV</label> For an ulcer in the womb. <hi>page</hi> 65</item>
+               <item>
+                  <label>CHAP. XV</label> For a Cancer in the womb. <hi>page</hi> 69</item>
+               <item>
+                  <label>CHAP. XVI</label> For a dropſie in the womb. <hi>page</hi> 73</item>
+               <item>
+                  <hi>Phyſicall Paradoxes. page</hi> 77</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="chapter">
+            <pb n="1" facs="tcp:170299:7"/>
+            <head>
+               <hi>CHAP. I.</hi> Generall obſervations concer<g ref="char:EOLhyphen"/>ning Womens diſeaſes.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Oman, that ſhe might be fruitfull and multiply, and might become the Mother of all living, had in the beginning, by God and Nature ſuch accompliſhments beſtowed upon her as are moſt ſui<g ref="char:EOLhyphen"/>table for ſuch a condition. She hath given her a fabrick of body different from Man, and a peculiar conſtitu<g ref="char:EOLhyphen"/>tion, colder than Man: That where<g ref="char:EOLhyphen"/>as Mans body, by its greater heat, doth dry up and tranſpire whatſoe<g ref="char:EOLhyphen"/>ver ſuperfluous moiſture is remai<g ref="char:EOLhyphen"/>ning after ultimate concoction; the ſame ſuperfluity in Woman might not be conſumed by a devouring heat, but might paſſe through fit channells into a convenient recepta<g ref="char:EOLhyphen"/>cle,
+<pb n="2" facs="tcp:170299:8"/> there to be retained, or from thence expelled, according to her pre<g ref="char:EOLhyphen"/>ſent condition whither pregnant or otherwiſe.</p>
+            <p>The throwing out of this ſuper<g ref="char:EOLhyphen"/>fluous moiſture, which the remiſſe heat of Womans body cannot ab<g ref="char:EOLhyphen"/>ſume, is in no healthfull Woman, perform'd by a confuſed motion, at uncertain times, but as the ſea, the ſap of trees, the juice of fruits, and all other moiſt bodies do obſerve, in their ebbings and flowings the dictate of their governeſſe, the Moon; Even ſo do the humors of the bodies of moſt healthfull Women ferment and purifie themſelves at ſet times, anſwerable to the Aſpects of the Moon with the Sun. And as at ſome time of the month the ſea doth re<g ref="char:EOLhyphen"/>ceive from the Moon a greater fer<g ref="char:EOLhyphen"/>mentation than ordinary, ſwelling and dilating it ſelfe into the bowells of the earth; Even ſo the humors of
+<pb n="3" facs="tcp:170299:8"/> a Womans body have, once every month, their ſpring tide, not onely fermenting within their uſuall limits, but alſo ſwelling to a greater extent, and are extravaſated into the wombe to fertilize the ſame.</p>
+            <q>Luna vetus veteres purgat, nova luna puellas.</q>
+            <p>Experience teacheth that young Women have their monthly evacua<g ref="char:EOLhyphen"/>tion when the Sun and Moon are in Conjunction, that is, at the time of New Moon: and ancient Women, who have ſtill their months, have them when the Moon is oppoſite to the Sun, that is, at the time of Full Moon. Other Women, according as they are more or leſſe in years do ſymphathize with the proportiona<g ref="char:EOLhyphen"/>ble age of the Moon, and are purged at other intermediate Aſpects: <hi>Viz: Sextile, Trine, Quartile, &amp;c.</hi>
+            </p>
+            <p>Some men, who make much
+<pb n="4" facs="tcp:170299:9"/> bloud, and are of a colder tempe<g ref="char:EOLhyphen"/>rament, come ſo near to the Nature of Women, that they have conſtant<g ref="char:EOLhyphen"/>ly every month an evacuation of bloud by the haemorrhoidall veins. And againe on the contrary ſome few Women are of ſo hot a conſti<g ref="char:EOLhyphen"/>tution, and are ſuch Viragos, parti<g ref="char:EOLhyphen"/>cipating ſo much of the nature of Man, that they have ſeldome or never any evacuation at all, and yet enjoy their perfect health. Of ſuch as theſe our preſent diſcourſe is not; but of others whoſe health or infir<g ref="char:EOLhyphen"/>mity doth depend upon the expul<g ref="char:EOLhyphen"/>ſion or retention of that ſuperfluous bloud which is by moſt Women monthly evacuated.</p>
+            <p>From the ſtopping, or the immo<g ref="char:EOLhyphen"/>derate ſlowing, of the months may proceed all manner of diſeaſes which can poſſibly happen unto mankinde, for all diſeaſes whatſoever have their originall either from repletion
+<pb n="5" facs="tcp:170299:9"/> or inanition, from fullneſſe or empti<g ref="char:EOLhyphen"/>neſſe.</p>
+            <p>The ſtopping of the months doth produce at firſt a generall cachexy, or evill habit of body, that is, want of appetite &amp; diſgeſtion, indiſpoſed<g ref="char:EOLhyphen"/>neſſe to exerciſe, dullneſſe and drow<g ref="char:EOLhyphen"/>ſyneſſe, &amp;c. This cachexy, if it be not taken away by bleeding, purging, ſweating, abſtinence or the like doth beget ſome other diſeaſe unto which the body is moſt enclined. The di<g ref="char:EOLhyphen"/>ſtempers which doe generally enſue hereupon are paines in the head, back, and other parts of the body, intermitting feavers, the black and yeallow jaundiſe, difficulty of brea<g ref="char:EOLhyphen"/>thing, the dropſy, the ſcurvy, the pluriſy, the ſquinancy, &amp;c. Such like diſeaſes do moſt frequently happen upon the obſtruction of the month<g ref="char:EOLhyphen"/>ly courſe: Yet is not the body whol<g ref="char:EOLhyphen"/>ly exempted from any other diſtem<g ref="char:EOLhyphen"/>per whatſoever, upon this account,
+<pb n="6" facs="tcp:170299:10"/> whereof fullneſſe is the cauſe. For by the retention of the months not onely the groſſer par s of the hu<g ref="char:EOLhyphen"/>mors do putrefy; but even <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he thin<g ref="char:EOLhyphen"/>ner parts thereof<g ref="char:punc">▪</g> or ſpirits may become more diſpoſed to receive and cheriſh the ſeed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of peſtilentia<g ref="char:EOLhyphen"/>lity, whereby the b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy is rendred more obnoxious to thoſe epidemicall diſeaſes, <hi>Viz:</hi> the ſmall Pox, the Meaſells, the ſpotted Feaver the Pur<g ref="char:EOLhyphen"/>ples, the Plague, or wha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſoever other contagious diſeaſe.</p>
+            <p>As the retention of the months doth procreate all manner of diſea<g ref="char:EOLhyphen"/>ſes which have their originall from repletion; Even ſo from the immode<g ref="char:EOLhyphen"/>rate flowing of the ſame do proceed thoſe other diſtempers which are the of-ſprings of inanition, <hi>Viz:</hi> con<g ref="char:EOLhyphen"/>vulſions, cramps, ſyncopes, &amp;c. Of which it wil be too tedious to ſay any thing in particular.</p>
+            <p>Having generally conſidered the
+<pb n="7" facs="tcp:170299:10"/> error in quantity committed by the retention or immoderate expulſion of the months, from whence may pro<g ref="char:EOLhyphen"/>ceed all thoſe diſeaſes in Women which are common unto all Man<g ref="char:EOLhyphen"/>kinde: we come now to take notice of the evill quality of the humors ſo retained or expelled, from whence, proceed diſeaſes of the wombe and ſuch as are peculiar unto Women.</p>
+            <p>The wombe is a tender part, ner<g ref="char:EOLhyphen"/>vous, and exquiſitely ſenſible, apt to receive a various impreſſion accor<g ref="char:EOLhyphen"/>ding to the diverſity of the quality of the humor which is caſt into it, and contained in it. Sharpe and bi<g ref="char:EOLhyphen"/>lious humors ulcerate the wombe; melancholick juice hardeneth it, and breeds a <hi>Scirrhus</hi> therein; hot bloud doth inflame it; crude and indige<g ref="char:EOLhyphen"/>ſted humors putrefy and cauſe a ſuf<g ref="char:EOLhyphen"/>focation thereof, which is called the hyſtericall paſſion. And ſo is it hu<g ref="char:EOLhyphen"/>mected, dryed, cancerated, &amp;c. Ac<g ref="char:EOLhyphen"/>cording
+<pb n="8" facs="tcp:170299:11"/> to the nature of the humor which it receives</p>
+            <p>Thoſe humors which hurt the wombe have other paſſages appoin<g ref="char:EOLhyphen"/>ted them by Nature, by which they might be expell'd without prejudice to the parts through which they paſs, (ſuch is the tenderneſſe of the wombe in reſpect of other parts) as the blad<g ref="char:EOLhyphen"/>der, the inteſtines, the pores, and other particular emunctories. Now when theſe, or ſome of theſe, by any cauſe whatſoever, are ſtopt whereby there is ſome offenſive humor re<g ref="char:EOLhyphen"/>tain'd which ſhould, but cannot, by theſe paſſages be expell'd; Nature, out of her providence to the whole, is forc'd to throw out this offenſive humor into the tender wombe, which preſently receives the impreſſion thereof and ſuffers, more or leſſe, after a diverſe manner according to the quality of the humor. Some<g ref="char:EOLhyphen"/>times the wombe ſuffers by proca<g ref="char:EOLhyphen"/>tarcticall
+<pb n="9" facs="tcp:170299:11"/> or outward cauſes: it may be indurated by cold injections: it may be inflam'd by too hot a peſſa<g ref="char:EOLhyphen"/>ry: and by too long continuance of too ſharpe a peſſary it may be ulce<g ref="char:EOLhyphen"/>rated. What prudence then, and re<g ref="char:EOLhyphen"/>ligion is there required in that pra<g ref="char:EOLhyphen"/>ctitioner, whether phyſitian or Chi<g ref="char:EOLhyphen"/>rurgion, that is concerned in the cure of diſeaſes in the wombe! How poſ<g ref="char:EOLhyphen"/>ſible is it for an unskilfull hand to ulcerate or inflame the wombe in attempting by peſſary to cure the hy<g ref="char:EOLhyphen"/>ſtericall paſſion! So likewiſe in the cure of any other diſtemper of the wombe, as alſo of all other diſeaſes which are peculiar to Women, with<g ref="char:EOLhyphen"/>out much prudence, skill and caution, there is much danger.</p>
+         </div>
+         <div n="2" type="chapter">
+            <pb n="10" facs="tcp:170299:12"/>
+            <head>
+               <hi>CHAP. II.</hi> To Procure the months.</head>
+            <p>FIrſt of all take notice of the pa<g ref="char:EOLhyphen"/>tients pulſe, which you ſhall ob<g ref="char:EOLhyphen"/>ſerve to be either too quick, too flow, or moderate.</p>
+            <p>If her pulſe be quicker than or<g ref="char:EOLhyphen"/>dinary, it will be convenient for her to be let bloud; if ſlower than is uſuall to healthful Women, the beſt way is to refrain bleeding: if her pulſe be moderate, <hi>Viz:</hi> neither too quick nor too ſlow, ſhe may bleed or not bleed according to theſe following condit<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons.</p>
+            <p>The patient muſt be lett bloud upon a moderate pulſe, if ſhe doe ſometimes bleed at noſe, or if ſhe have paine in her head, or in her back, or in any of her ſides, or if ſhe be naturally ſubject to warts, or have a
+<pb n="11" facs="tcp:170299:12"/> wenn in any part of her: for all theſe are ſignes of a melancholick conſti<g ref="char:EOLhyphen"/>tution wherein letting blood is in the firſt place required.</p>
+            <p>She muſt not bleed upon a mode<g ref="char:EOLhyphen"/>rate pulſe if her leggs be ſubject to ſwell and pit, or if ſhe be ſick after her meat, or if ſhe be very drowſy and enclin'd to ſleep much: for theſe are ſignes of a Phlegmatick Conſti<g ref="char:EOLhyphen"/>tution, wherein letting blood is ſome what dangerous in regard of a drop<g ref="char:EOLhyphen"/>ſie.</p>
+            <p>I have ſet down ſeverally the ſig<g ref="char:EOLhyphen"/>nes whereby may be known whether it will be neceſſary for her to bleed or not to bleed, yet often times theſe ſignes which I diſtinguiſh, m<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y hap<g ref="char:EOLhyphen"/>pen together in the ſame body: as the ſame Woman which hath pain in her head, ſides or back, which I call ſignes that letting blood is re<g ref="char:EOLhyphen"/>quiſite, may alſo have a ſwelling in her legs, which, of it ſelf, is a ſigne
+<pb n="12" facs="tcp:170299:13"/> that letting blood is not neceſſary: in this caſe it will be Convenient for her to bleed; for theſe ſeveral ſignes concurring are an argument that ſhe doth labour with a plechora, or ful<g ref="char:EOLhyphen"/>neſs of humours, which muſt be emp<g ref="char:EOLhyphen"/>tied by letting blood which is the moſt general Evacuation.</p>
+            <p>Bloud muſt be taken away upon this occaſion, alwaies from thoſe veins which are in the lower parts of the body; it is moſt commom to let bloud in one of the feet, yet if the Pa<g ref="char:EOLhyphen"/>tient have a pain in her back, or in the hinder part of her head, it will be more proper for her to bleed with leaches in the Haemorrhoidal veins: if ſhe have pain in any of her ſides, or in the ſide of her head, ſhe muſt bleed in the foot of the ſame ſide where the pain is; Except her feet or ancles ſwell, then muſt ſhe not bleed in the foot, leaſt thereby the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umors of her body be too much called
+<pb n="13" facs="tcp:170299:13"/> down. But let her rather bleed in the vein under the ham. If ſhe have pain on both ſides alike, or athwart her cheſt, or if ſhe have no pain, it will be moſt convenient for her to bleed in the left foot, becauſe the ſpleen is on the left ſide, whoſe fulneſs and ſtopping is commonly the cauſe of this diſtemper.</p>
+            <p>After bloud-letting the next thing in order to be done is vomiting. But if the Patient, upon bleeding, per<g ref="char:EOLhyphen"/>ceive a Manifeſt alteration to the bet<g ref="char:EOLhyphen"/>ter, it will be wiſdome to let her al<g ref="char:EOLhyphen"/>one ſome time, and to obſerve whe<g ref="char:EOLhyphen"/>ther Nature, having ſome part of her load taken of, be not able to govern the reſt the better, and whether ſhe may not, by the helpe of convenient diet<g ref="char:punc">▪</g> and moderate Exerciſe, with<g ref="char:EOLhyphen"/>out Phyſick, do the reſt of what is to be done.</p>
+            <p>But in thoſe bodies which are Ca<g ref="char:EOLhyphen"/>cochymous or of evil juice bleeding
+<pb n="14" facs="tcp:170299:14"/> will not be ſufficient, wherefore they muſt, as I ſaid, after bleeding pro<g ref="char:EOLhyphen"/>ceed to vomiting<g ref="char:punc">▪</g> and others which are not let bloud muſt begin with a vomit.</p>
+            <p>Vomits are of ſeveral natures, and may be contrived into ſeveral forms, as into a Pill, a Potion, a bole, &amp;c. all which I ſhall, at preſent, paſs by, and propound one onely Vomit which is ſo ſafe that it may be given to a Child of a year old, and doth agree with all conſtitutions, all ages, and all diſeaſes wherein Vomiting is neceſſary.</p>
+            <p>The Vomit which I mean is Oxy<g ref="char:EOLhyphen"/>mel of Squills. The doſe of it is from one ounce to 3 ounces: it is of the conſiſtence of a Syrupe, wherefore the beſt way to take it is to mix it with 5 or 6 ſpoonefulls of poſſet drink, and ſo to drink it down upon a full Stomack, about foure in the after<g ref="char:EOLhyphen"/>noone, having dined 2 or 3 houres
+<pb n="15" facs="tcp:170299:14"/> before. This Oxymel of ſquills will either Purge, or Vomit, or both, according to the Conſtitution of the body, and the nature of the Super<g ref="char:EOLhyphen"/>fluous humour. Let her intermit two days betwixt Vomiting and bleed<g ref="char:EOLhyphen"/>ing. The next day after her Vomit let her begin to take of a Chalybeate Electuary: let her take the quantity of a nutmeg of it at a time twice every day viz: in the morning faſting and at 4 in the afternoon, ſo long as it ſhall laſt let her be ſure to exerciſe al<g ref="char:EOLhyphen"/>waies immediately after the taking of her Chalybeate Electuary<g ref="char:punc">▪</g> if ſhe be of a hot Conſtitution let her make uſe of the firſt Electuary, if cold, let her take the ſecond, if moderate, the third.</p>
+            <div type="section">
+               <head>The firſt Chalybeate Electuary for hot Conſtitutions.</head>
+               <p>TAke Conſerve of Berberies, 3 ounces, Conſerve of wood ſorrel 2 ounces, prepared ſteele one
+<pb n="16" facs="tcp:170299:15"/> ounce, red coral prepared, Cream of Tartar of each a Dram, Oyle of Vi<g ref="char:EOLhyphen"/>triol twenty drops, Syrupe of Le<g ref="char:EOLhyphen"/>mons as much as is ſufficient to make it up into an Electuary.</p>
+            </div>
+            <div type="section">
+               <head>The ſecond Chalybeate Electuary for cold Conſtitutions.</head>
+               <p>TAke Conſerve of Scurvigraſs foure ounces, Tartarum Vitrio<g ref="char:EOLhyphen"/>latum, Salt of Steele, Species Diaga<g ref="char:EOLhyphen"/>langa of each a Dram, with Syrupe of Coral as much as is ſufficient, make it up into an Electuary.</p>
+            </div>
+            <div type="section">
+               <head>The third Electuary for moderate Conſtitutions.</head>
+               <p>TAke Conſerve of Scurvigraſs 3 ounces, Conſerve of Berberies two ounces, red Coral prepared a Dram, prepared Steele 6 Drams, Syrupe of Wood ſorrel an ounce, Oyle of Sulphur thirty drops, mix them together into an Electuary.</p>
+               <pb n="17" facs="tcp:170299:15"/>
+               <p>After the uſe of any one of theſe Electuaries according to the man<g ref="char:EOLhyphen"/>ner above written, there will re<g ref="char:EOLhyphen"/>maine nothing elſe to be done, but onely for the Patient once or twice a day to drink a cup of white wine mixt with 2 or 3 ſpoonefuls of Sy<g ref="char:EOLhyphen"/>rupe of mugwort: this ſhe may continue a fortnight or 3 weeks together.</p>
+               <p>Let her diet be cheifly Fleſh meat, Broth, and the Gravy of Meat, let her drink be new Beer: let her by all means abſtain from Fiſh, Water-gruel and Gritts, it is good now and then to boyle in her broth the roots of Fennel, Smallage, But<g ref="char:EOLhyphen"/>chers-broome, Parſley, and Aſpa<g ref="char:EOLhyphen"/>ragus.</p>
+               <p>
+                  <hi>If there ſhall be a greater fulneſs of bloud than ordinary in the body, it will be more ſafe and convenient to let her bloud firſt in the arm, and
+<pb n="18" facs="tcp:170299:16"/> then two dayes after in the foot, and ſo to proceed according to the afore<g ref="char:EOLhyphen"/>ſaid method. Yet if ſhe bleed at the Noſe or vomit bloud, let her not bleed in the arm by any means, but onely in the lower parts of the body: and apply Cupping-glaſſes with ſcarifi<g ref="char:EOLhyphen"/>cation unto her thighs.</hi>
+               </p>
+               <p>
+                  <hi>Some have had their Months pro<g ref="char:EOLhyphen"/>cured by taking the quantity of a Nutmeg of old Leaven, mixt with the like quantity of Sugar, for three or four dayes together.</hi>
+               </p>
+               <p>
+                  <hi>Theſe following Pils provoke the Months in ſome women without any other means whatſoever. Give the pa<g ref="char:EOLhyphen"/>tient two of them every night when ſhe goes to bed, for the ſpace of three weeks together.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Pils.</head>
+               <p>Take Myrrh three drams, Ari<g ref="char:EOLhyphen"/>ſtolochia rotunda two drams, Aga<g ref="char:EOLhyphen"/>rick, Cinnamon, dictamnus Creticus, of each a dram, Saffron two ſcruples,
+<pb n="19" facs="tcp:170299:16"/> Spikenard half a dram: with as much ſyrupe or rather juyce of Mugwort, as ſhall be ſufficient, make them into a Maſs, out of which make ſmall Pils as big as Peas.</p>
+               <p>The juyce of the white Flower de Luce root provoketh the Months, if it be given to the patient in the mor<g ref="char:EOLhyphen"/>ning faſting, for three mornings to<g ref="char:EOLhyphen"/>gether four, five, or ſixe ſpoonfuls at a time, according to the ſtrength of the patient, about the time when ſhe expects her monthly evacuation.</p>
+               <p>The juyces of Penny royal and Balm are ſometimes effectual, but they are of leſs force then the juyce of the white Flower de luce root; where<g ref="char:EOLhyphen"/>fore they are fitteſt to be given to thoſe that are of weak conſtitutions.</p>
+            </div>
+         </div>
+         <div n="3" type="chapter">
+            <pb n="20" facs="tcp:170299:17"/>
+            <head>
+               <hi>CHAP. III.</hi> To ſtop the immoderate flowing of the Months.</head>
+            <p>LEt a large Cupping glaſſe be applyed once or twice to each breaſt, without ſcarification. This doth immediately ſtop the immo<g ref="char:EOLhyphen"/>derate flowing of months: and to thoſe that are of a healthful tempe<g ref="char:EOLhyphen"/>rament, having fallen into this di<g ref="char:EOLhyphen"/>ſtemper by ſome accident, as a fright or the like, this alone will be ſuffi<g ref="char:EOLhyphen"/>cient. But others whoſe diſtemper doth proceed from an inward cauſe, after the application of Cupping glaſſes to their breaſts, which doth at preſent ſtay the effect, muſt take ſomething inwardly to take away the cauſe, leaſt the effect returne again.</p>
+            <p>The cauſe is alwaies either a ſharp
+<pb n="21" facs="tcp:170299:17"/> cholerick humour in the body: or elſe a thin, putrid, and watriſh moi<g ref="char:EOLhyphen"/>ſture. The difference of the cauſes, may be known by the difference of the ſignes: If the patient be natural<g ref="char:EOLhyphen"/>ly of a hot temper, and be ſubject unto fluſhing heats into the neck and face, and, for matter of diet, hath delighted in Salt meats, Mu<g ref="char:EOLhyphen"/>ſtard, Pepper, &amp;c. from hence the cauſe will appear to be a ſharp cho<g ref="char:EOLhyphen"/>lerick humour; for which let her take three or four ſpoonfuls at a time of this following Julape three or four times a day, for a fortnight or three weeks together; and after that let her take the quantity of a Nutmeg at a time of this following Electuary in the morning faſting, at four in the afternoon, and at night to bedward, until ſhe ſhall perceive the cauſe to be abated.</p>
+            <div type="section">
+               <pb n="22" facs="tcp:170299:18"/>
+               <head>The Julape.</head>
+               <p>TAke Plantain water twelve oun<g ref="char:EOLhyphen"/>ces, ſyrupe of Violets ſix oun<g ref="char:EOLhyphen"/>ces, oyl of Vitriol ſo much as ſhall make it very tart, ſhake them toge<g ref="char:EOLhyphen"/>ther in a glaſs.</p>
+               <p>The Electuary is onely a mixture of conſerve of Barberies and red Co<g ref="char:EOLhyphen"/>ral. Take conſerve of Barberies three ounces, red Coral prepared three drams: mixe them together.</p>
+               <p>Once in five or ſixe days let her purge with lenitive Electuary.</p>
+               <p>Let her by no means eat any fleſh meat, or broth of meat: But let her diet be Water-gruel, Panado, Cream of barley, and ſuch like thickening and cooling diet. Let her drink be ſmall Beer, or rather ſmall Ale.</p>
+               <p>If the cauſe be a thin and putrid humour, it will appear by that which comes from her, which will be diſcoloured and ſtinking. Let her
+<pb n="23" facs="tcp:170299:18"/> firſt take this following purging Po<g ref="char:EOLhyphen"/>tion.</p>
+            </div>
+            <div type="section">
+               <head>The Potion.</head>
+               <p>TAke Sena three drams, Rubarb and Agarick of each a dram, Caruay ſeeds and Coriander ſeeds prepared, of each half a dram: in<g ref="char:EOLhyphen"/>fuſe them in a quarter of a pinte of White-wine for the ſpace of twelve houres. Strain them, and put to the ſtrained liquor an ounce and half of ſyrupe of Roſes, and five drops of oyl of Vitriol: Give it her to drink in a morning faſting with due obſervation according to the uſual manner of pur<g ref="char:EOLhyphen"/>ging.</p>
+               <p>After ſhe hath purged, let her take plentifully of conſerve of Red-roſes vitriolated for the ſpace of a week, then let her purge again as for<g ref="char:EOLhyphen"/>merly: After that continue her with this following Electuary until ſhe be well.</p>
+            </div>
+            <div type="section">
+               <pb n="24" facs="tcp:170299:19"/>
+               <head>The Electuary.</head>
+               <p>
+                  <hi>TAke conſerve of Red-roſes vi<g ref="char:EOLhyphen"/>triolated four ounces, conſerve of Barberies two ounces,</hi> Lapis hae<g ref="char:EOLhyphen"/>matites <hi>two drams, Dragons blood a dram and half,</hi> Crocus Martis <hi>a dram: with as much ſyrupe of Quin<g ref="char:EOLhyphen"/>ces as ſhall be ſufficient, make it into an Electuary: of which give her the quantity of a ſmall nut five or ſixe times a day.</hi>
+               </p>
+               <p>
+                  <hi>If her flux return before her body be altered, ſtay it by a ſecond appli<g ref="char:EOLhyphen"/>cation of Cupping-glaſſes to her breaſts, as above written.</hi>
+               </p>
+               <p>
+                  <hi>Let her diet be the ſame with that before mentioned. For fleſh meat doth beget both a ſharp, and alſo a putrid humour in the body, where<g ref="char:EOLhyphen"/>upon it is ſo ſtrictly forbidden imme<g ref="char:EOLhyphen"/>diately after child-birth (beſides up<g ref="char:EOLhyphen"/>on the account of a Feaver) leſt it ſhould put either a ſharpneſs, or elſe
+<pb n="25" facs="tcp:170299:19"/> a putrefaction upon the bloud, and thereby cauſe a greater flux.</hi>
+               </p>
+               <p>It is a common obſervation, that they that are much inclin'd to the im<g ref="char:EOLhyphen"/>moderate flowing of the Months, are almoſt continually bound in their bo<g ref="char:EOLhyphen"/>dies, which is oftentimes the cauſe wherefore this immoderate Flux doth ſo long continue. For Nature endea<g ref="char:EOLhyphen"/>vouring to diſcharge her ſelf of ſome ſuperfluous humour, by the common ſink of the body, the Guts finding that paſſage ſtopt, throws it out by that paſſage which is moſt open.</p>
+               <p>Wherefore whatſoever is given to ſtop this immoderate flowing of the Months, it will be to no purpoſe, ex<g ref="char:EOLhyphen"/>cept a due regard be had to the keep<g ref="char:EOLhyphen"/>ing of the Patients body ſoluble; which muſt not be by ſtrong and violent purgers, but by ſuch Medicines as do but gently purge, and withall have a power to cool the body and allay the
+<pb n="26" facs="tcp:170299:20"/> ſharpneſs of humours; of which ſort are <hi>Catholicon,</hi> Lenitive Electuary, <hi>Diaprunum,</hi> ſyrupe of Damask ro<g ref="char:EOLhyphen"/>ſes, &amp;c.</p>
+               <p>The ſame things which are com<g ref="char:EOLhyphen"/>monly given unto thoſe that bleed much at the noſe, or vomit bloud, are alſo very good in this caſe; As the juices of Plantain and Nettles, the powder of Colophony, Dragons bloud, <hi>Lapis haematites,</hi> the powder of A<g ref="char:EOLhyphen"/>corn cups, the powder of Comfrey <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ots, &amp;c.</p>
+               <p>But above all things let the Pa<g ref="char:EOLhyphen"/>tient be converſant in a cool ayr. In the Summer time let the room where<g ref="char:EOLhyphen"/>in ſhe is be cooled with green boughs, and let water be ſprinkled upon the floor, and in the Winter time let there be little or no fire in the room.</p>
+               <p>
+                  <g ref="char:V">Ʋ</g>pon a Miſcarriage, and ſome<g ref="char:EOLhyphen"/>times after Childe-bearing, it hath been obſerved; that the bloud which the Patient voids being drunk in
+<pb n="27" facs="tcp:170299:20"/> White wine, doth immediately ſtay the immoderate Flux: Inſomuch, that many Midwives account this as a great ſecret, and mixe it pri<g ref="char:EOLhyphen"/>vately leſt they ſhould communicate their skill to others. I have ſome ac<g ref="char:EOLhyphen"/>quaintance with a Gentlewoman who could by no means poſſibly be cured, who was brought ſo weak with this continual flux of bloud, that ſhe alwayes fainted away when ſhe was but turned in her bed, inſomuch that her friends and Phyſitians deſpaired of her life, ſeeing that all thoſe means which have been effectual to others, proved not at all ſuccesful to her: At length ſhe was adviſed to have a live Toad put up in a Napkin and bound to her back; which was no ſooner done but her flux of bloud was ſtaid from thence forward; and to the admiration of all, this Gentlewoman was thereby recovered.</p>
+            </div>
+         </div>
+         <div n="4" type="chapter">
+            <pb n="28" facs="tcp:170299:21"/>
+            <head>
+               <hi>CHAP. IIII.</hi> For the riſing of the <hi>Matrix</hi> or Womb, called commonly the <hi>Mother.</hi>
+            </head>
+            <p>THe preſent paroxyſme or fit is firſt to be abated. After that, the cauſe muſt be taken away, other<g ref="char:EOLhyphen"/>wiſe, upon the leaſt diſturbance of minde, during her whole life time, ſhe muſt expect ſeveral fits in the like Nature.</p>
+            <p>To abate the preſent fit, firſt of all apply a Cupping-glaſs to her navel: after it hath continued on ſome few minutes take it off, and lay two or three grains of Civet, received into a little cotton or lint, upon her navel, and keep it on with a plaiſter of Galbanum as broad as the mouth of a Cupping glaſs. Let the plaiſter re<g ref="char:EOLhyphen"/>main
+<pb n="29" facs="tcp:170299:21"/> on ſo long as it will ſtick.</p>
+            <p>Then proceed to take away the cauſe; but in the mean time, leſt the fit ſhould return before the cauſe be wholly abated, give her now and then, as often as you pleaſe, a ſpoon<g ref="char:EOLhyphen"/>full or two of compound Pyony-wa<g ref="char:EOLhyphen"/>ter ſweetned with white Sugar-candy; and let her ſometimes take a whift or two of Tobacco in a pipe; or, if ſhe obſerve a fit approaching, let another take tobacco, and blow the ſmoak to her: for this is better then the ſmoak of feathers, or <hi>Aſſafoetida.</hi>
+            </p>
+            <p>The cauſe of this diſtemper is a putrid humour collected in the womb, proceeding from too great a quantity of bloud, in reſpect of the patients ſtrength to govern it.</p>
+            <p>Firſt, breath a vein in the right arm to the quantity of ſeven ounces of bloud. The next day after, if the patient be of a ſanguine complexion, or melancholick, let her bloud in the
+<pb n="30" facs="tcp:170299:22"/> foot to the quantity of about eight or nine ounces. The day after bleeding give her this following Clyſter.</p>
+            <div type="section">
+               <head>The Clyſter.</head>
+               <p>TAke Mugwort, Penny royal, the flowers of Centuary of each a ſmall handful, Chammomile and Mellilot flowers of each half a hand<g ref="char:EOLhyphen"/>ful, Bayberries and Cummin-ſeeds bruiſed of each two drams, French barley half an ounce: boyl them in a pinte and half of water until half be waſted, ſtrain away the liquor, and diſſolve therein an ounce of Diaphae<g ref="char:EOLhyphen"/>nicon, the yolk of an egge, and two drams of Venice-terpentine waſht. The Venice terpentine muſt be firſt mixt with the Yolk of the egge in a mortar, and ſo be incorpo<g ref="char:EOLhyphen"/>rated into the reſt of the liquor by degrees.</p>
+               <p>The next day after her Clyſter, let her purge with three, four, or five pils
+<pb n="31" facs="tcp:170299:22"/> of <hi>Extractum Rudii,</hi> more or leſs ac<g ref="char:EOLhyphen"/>cording to the conſtitution of her bo<g ref="char:EOLhyphen"/>dy, whether eaſie or hard to work upon. The day after purging let her make uſe of this following Peſſary.</p>
+            </div>
+            <div type="section">
+               <head>The Peſſary.</head>
+               <p>TAke Mugwort and Feaverſue of each half a handful, <hi>Diaphaeni<g ref="char:EOLhyphen"/>con</hi> and Venice terpentine of each ſix drams, <hi>ſpecies hiera picra</hi> three drams, beat them together into a maſs; then make a little bag of ſar<g ref="char:EOLhyphen"/>cenet ſhaped like unto a ſuppoſitory, but let it be bigger both in thickneſs and length. Then crowd ſo much of the maſs into it as it wil contain, that ſo it may be ſtiff, like unto a ſuppo<g ref="char:EOLhyphen"/>ſitory, though bigger: tye it up, and leave the ſtring hanging, whereby it may be pulled out upon occaſion. Uſe this Peſſary unto her ſo often, until her womb be throughly cleanſed: then let her drink a quarter of a
+<pb n="32" facs="tcp:170299:23"/> pinte at a time of this following drink thrice a day, for the ſpace of thirty or forty days.</p>
+            </div>
+            <div type="section">
+               <head>The Drink.</head>
+               <p>TAke of the wood of Guajacum half a pound, Guajacum bark four ounces, the roots of China and Sarſaparilla of each two ounces<g ref="char:punc">▪</g> Li<g ref="char:EOLhyphen"/>quorice an ounce and half. Raiſins ſtoned four ounces: boyl them a lit<g ref="char:EOLhyphen"/>tle over night in two gallons of wa<g ref="char:EOLhyphen"/>ter in an iron pot cloſe covered; let them infuſe all night, the next morn<g ref="char:EOLhyphen"/>ing boyl them again until half the liquor be waſted: ſtrain it, and drink thereof as aforeſaid.</p>
+               <p>
+                  <hi>In ſome women this diſeaſe may be cured by this following Apozeme a<g ref="char:EOLhyphen"/>lone without any other courſe of Phy<g ref="char:EOLhyphen"/>ſick: And many have been cured <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nly with theſe following Pills.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <pb n="33" facs="tcp:170299:23"/>
+               <head>The Apozeme.</head>
+               <p>TAke Motherwort a handful, Ceterach and Maidenhair of each half a handful, Raiſins ſtoned two ounces, Liquorice an ounce, <hi>Caſ<g ref="char:EOLhyphen"/>ſa lignea</hi> half an ounce, red Madder roots half an ounce, ſquinanth two drams. Boyl all theſe in ſix pintes of water in an earthen veſſel cloſe cove<g ref="char:EOLhyphen"/>red, over a gentle fire, until half be waſted. Strain away the ingredients, and diſſolve in the ſtrained liquor ſalt of Steel two drams, ſyrupe of the five opening roots ſix ounces. Let her drink a quarter of a wine pinte of this Apozeme warm every morning faſting, and as much at four in the afternoon, for a fortnight or three Weeks together, and let her alwayes exerciſe after it.</p>
+            </div>
+            <div type="section">
+               <head>The Maſs for Pils.</head>
+               <p>TAke Aloes two drams, Trochis of myrrh a dram and half, Tro<g ref="char:EOLhyphen"/>chis
+<pb n="34" facs="tcp:170299:24"/> of Alhandal half a dram, <hi>Caſto<g ref="char:EOLhyphen"/>reum</hi> two ſcruples, <hi>Diacrydium</hi> twen<g ref="char:EOLhyphen"/>ty grains: powder them finely, and with as much juyce of Garlick as ſhall be ſufficient make them into a Maſs: Let her ſwallow two ſcruples of it made into five pils every fourth morning ſo long as it ſhall laſt.</p>
+               <p>Some after all poſſible means uſed in vain, have at length been cured only by the drinking of water. Doubt<g ref="char:EOLhyphen"/>leſs thoſe phyſical Waters which purge either by Seat or <g ref="char:V">Ʋ</g>rine would be much more efficacious.</p>
+               <p>Married women have their pre<g ref="char:EOLhyphen"/>ſent fit taken away by the knowledge of their husbands, and Widdowes and Maids are oftentimes thorowly cured by marriage.</p>
+               <p>Ale is very hurtful, as alſo ſtrong Beer, and whatſoever elſe is vapo<g ref="char:EOLhyphen"/>rous, and doth fume much into the brain.</p>
+            </div>
+         </div>
+         <div n="5" type="chapter">
+            <pb n="35" facs="tcp:170299:24"/>
+            <head>
+               <hi>CHAP. V.</hi> For the falling down of the Womb.</head>
+            <p>MAny women have this diſtem<g ref="char:EOLhyphen"/>per, yet know not what it is, and are aſhamed to ask counſel of a Phyſitian concerning it. They obſerve a hard bearing down in their birth, in ſome of the bigneſs of a Gooſes egg, though in others leſs. It is ſcarce in any woman at all times alike, but at ſeveral times beareth down more or leſs, according as ſhe hath lately more or leſs ſtrained her body by walking or other exerciſe. It is at firſt cauſed commonly by hard tra<g ref="char:EOLhyphen"/>vel in childe-bearing, which weaken<g ref="char:EOLhyphen"/>eth the womb, and doth relax the adjacent parts.</p>
+            <p>Take Plantain, Shepheards purſe,
+<pb n="36" facs="tcp:170299:25"/> and Knotgraſs of each a handful, dried Mint half a handful, Comfrey roots an ounce, Biſtort and Tormen<g ref="char:EOLhyphen"/>til roots of each a quarter of an ounce, ſweet Fennel ſeeds half an ounce, bruiſe the roots and ſeeds, and cut the hearbs, then boyl them all together in three pintes of water un<g ref="char:EOLhyphen"/>til half be waſted, when it is almoſt boyled, put into it a pinte of Red<g ref="char:EOLhyphen"/>wine. Strain it, and ſweeten the ſtrai<g ref="char:EOLhyphen"/>ned liquor with ſix ounces of ſyrupe of Quinces. Let her take nine ſpoon<g ref="char:EOLhyphen"/>fuls of this Apozeme every morning faſting, and as much at night to bed<g ref="char:EOLhyphen"/>ward, for the ſpace of twenty days. Let her in the mean time uſe fricti<g ref="char:EOLhyphen"/>ons or Cupping-glaſſes to her breaſts: Let her neither ſtand nor walk much: Let her very often re<g ref="char:EOLhyphen"/>ceive into her noſthrils ſweet and grateful ſinels; as the fume of Ben<g ref="char:EOLhyphen"/>zomin, Storax, Labdanum, Roſe<g ref="char:EOLhyphen"/>water, &amp;c. Let her wear a plaiſter
+<pb n="37" facs="tcp:170299:25"/> of Oxycroceum athwart her back: Let her never keep her urine too long.</p>
+            <p>
+               <hi>Able Phyſitians report that ſome women have been cured of this di<g ref="char:EOLhyphen"/>ſtemper by fear onely. Let the Pati<g ref="char:EOLhyphen"/>ent be perſwaded that the bearing down or ſwelling muſt be ſeared with a hot iron, and let an iron be put into the fire, and other ſuch like prepara<g ref="char:EOLhyphen"/>tions made in the ſight of the Patient, that ſhe may really think that ſhe muſt be immediately cauterized; the apprehenſion and fear of this will, without doubt, cauſe the Womb to ſhrink up, and return to its proper place.</hi>
+            </p>
+            <p>
+               <hi>If the Womb be ulcerated, it muſt not by any means be reduced into its place, untill the <g ref="char:V">Ʋ</g>lcer be healed.</hi>
+            </p>
+         </div>
+         <div n="6" type="chapter">
+            <pb n="38" facs="tcp:170299:26"/>
+            <head>
+               <hi>CHAP. VI.</hi> To ſtop the flowing of the Whites.</head>
+            <p>LEt the Patient purge with this following Potion.</p>
+            <p>Take Sena two drams, Agarick a dram, white Ginger half a dram, <hi>Tartarum vitriolatum</hi> half a dram: infuſe them all night in a quarter of a pinte of White-wine, in the morn<g ref="char:EOLhyphen"/>ing diſſolve in the ſtrained liquor an ounce of the whiteſt Manna, and give it her to drink; with due ob<g ref="char:EOLhyphen"/>ſervation of thin broth after every ſtool, according to the cuſtome of Purging.</p>
+            <p>After two dayes intermiſſion give her this following potion, called com<g ref="char:EOLhyphen"/>monly —</p>
+            <div type="section">
+               <pb n="39" facs="tcp:170299:26"/>
+               <head>The white Potion.</head>
+               <p>TAke Venice terpentine waſht in Plantain water half an ounce, the yolk of a new laid Egg, Plantain water four ounces: incorporate the yolk of the Egg and the Terpentine together in a mortar, then by degrees mixe them with the plantain water, and give it her to drink in a morning faſting ſo ſoon as it is mixt. Let her keep in, and drink a draught or two of broth before ſhe eateth any thing elſe.</p>
+               <p>Lay this following Plaiſter athwart the ſmall of her back.</p>
+            </div>
+            <div type="section">
+               <head>The Plaiſter.</head>
+               <p>TAke Venice Terpentine waſht in Plantain water ſixe drams, white Waxe half an ounce, white Sealed earth two drams. Melt the waxe and terpentine together in an earthen porrenger; then take it from
+<pb n="40" facs="tcp:170299:27"/> the fire, and when it is almoſt cold, ſtir in the white ſealed earth being firſt finely powdered, and ſpread it upon Sheeps leather, to be applied as above written.</p>
+               <p>Three weeks after, let her take the ſame purging Potion again: and ſo once every three weeks until ſhe per<g ref="char:EOLhyphen"/>ceive the cauſe to be wholly abated.</p>
+               <p>
+                  <hi>The ſame things which cure the</hi> Gonorrhaea <hi>or running of the Reins in a man, do alſo cure the immode<g ref="char:EOLhyphen"/>rate flowing of the Whites in a wo<g ref="char:EOLhyphen"/>man. This following Electuary alone hath cured many.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Electuary.</head>
+               <p>TAke <hi>Diacatholicon,</hi> Diapru<g ref="char:EOLhyphen"/>num, Lenitive Electuary of each an ounce and half, Venice Terpentine waſh'd in Plantain or Red-roſe wa<g ref="char:EOLhyphen"/>ter two ounces, Sena powdered a dram and half, Anniſeeds in powder
+<pb n="41" facs="tcp:170299:27"/> two drams, mixe them all together in<g ref="char:EOLhyphen"/>to an Electuary; of which let her take the quantity of a Nutmeg eve<g ref="char:EOLhyphen"/>ry morning faſting, and as much at four in the afternoon ſo long as it ſhall laſt.</p>
+               <p>Gellies of Iſinglaſs and Harts<g ref="char:EOLhyphen"/>horn ſtop the Whites, but they are not ſafe until the body be ſufficiently purged. The Mucilage of Quince ſeeds, and the decoction of Comfrey roots do the like, but purging is alſo firſt required. Some Phyſitians do commend the decoction of Nettle ſeeds.</p>
+            </div>
+         </div>
+         <div n="7" type="chapter">
+            <head>
+               <hi>CHAP. VII.</hi> For the Chloroſy, or Green-ſickneſs.</head>
+            <p>IF the Patients pulſe be quick, take away ſeven or eight ounces of
+<pb n="42" facs="tcp:170299:28"/> bloud from the left arm, otherwiſe, not. Two days after her bleeding, or if ſhe doth not bleed, in the morning faſting give her a Vomit conſiſting of an ounce of Oxymel of Squils, and half an ounce of infuſion of <hi>Crocus Metallorum</hi> mixt together. Give her poſſet drink after every fit of vomi<g ref="char:EOLhyphen"/>ting, according to the cuſtom of a vomit.</p>
+            <p>The next day after her vomit let her begin to take of a Chalybeate E<g ref="char:EOLhyphen"/>lectuary, and continue it from thence forward for the ſpace of one and twenty days. She may take the quan<g ref="char:EOLhyphen"/>tity of a Nutmeg of it at a time twice every day, <hi>viz.</hi> in the morning fa<g ref="char:EOLhyphen"/>ſting, and at four in the afternoon, exerciſing after it. In the mean time once in ſeven days let her purge with two ſcruples of <hi>Pilulae Cochiae</hi> made up into five Pils. The Chalybeate Electuary is as followeth.</p>
+            <p>Take conſerve of Scurvigraſs 3 oun<g ref="char:EOLhyphen"/>ces,
+<pb n="43" facs="tcp:170299:28"/> conſerve of roman Wormwood two ounces, <hi>Species Dianiſum</hi> two drams, ſalt of Steel a dram and half, <hi>Tartarum vitriolatum</hi> and red Co<g ref="char:EOLhyphen"/>ral prepared of each a dram, Saffron two ſcruples; with as much ſyrupe of Hyſop as is ſufficient: mix them together into an Electuary.</p>
+            <p>
+               <hi>There are many other ſeveral ways of curing this diſeaſe; as by a Cordi<g ref="char:EOLhyphen"/>al, by Pils, by an Apozeme, by a Bag. The particular forms whereof are hereunder written.</hi>
+            </p>
+            <div type="section">
+               <head>The Cordial.</head>
+               <p>TAke Maskadel half a pinte, ſy<g ref="char:EOLhyphen"/>rupe of Wood-ſorrel three ounces, Mint water an ounce, Gaſcons pow<g ref="char:EOLhyphen"/>der a dram and half, Saffron a dram; mix them together. Let her take two ſpoonfuls of this Cordial at a time, e<g ref="char:EOLhyphen"/>very morning faſting, at four in the afternoon, and at night to Bed<g ref="char:EOLhyphen"/>ward,
+<pb n="44" facs="tcp:170299:29"/> ſo long as it ſhall laſt.</p>
+            </div>
+            <div type="section">
+               <head>The Pils.</head>
+               <p>TAke Aloes Roſata two drams, Myrrh a dram, Saffron half a dram, <hi>Faecula Brioniae, Faecula Aro<g ref="char:EOLhyphen"/>nis,</hi> ſalt of Steel of each two ſcru<g ref="char:EOLhyphen"/>ples; with ſyrupe of Lemmons as much as ſhall be ſufficient. Make them up into a Maſs: Out of which make Pils of the bigneſs of large Peas. Give her three of theſe Pils every morning faſting ſo long as they ſhall laſt, and let her exerciſe after them.</p>
+            </div>
+            <div type="section">
+               <head>The Apozeme.</head>
+               <p>TAke Harts-tongue, Betony and Maiden-hair of each a handful, Raiſins ſtoned two ounces, Liquorice an ounce, the roots of red Madder, Parſley, Fennel and Aſparagus of each half an ounce, two large Nut<g ref="char:EOLhyphen"/>megs, Mace a dram and half. Boyl them all together in five pintes of
+<pb n="45" facs="tcp:170299:29"/> ſpring water over a gentle fire, in an earthen veſſel cloſe covered, until there be but two pintes remaining. Strain away the ingredients, and diſſolve in the ſtrained liquor com<g ref="char:EOLhyphen"/>mon Triacle four ounces, ſalt of Steel a dram. Let her drink eight or nine ſpoonfuls of this Apozeme warm eve<g ref="char:EOLhyphen"/>ry morning faſting, exerciſing after it, and as much at four in the after<g ref="char:EOLhyphen"/>noon, ſo long as it ſhall laſt.</p>
+            </div>
+            <div type="section">
+               <head>The Bag.</head>
+               <p>TAke Scurvy-graſs two large handfuls, Watercreſſes and Brooklime of each a handful, Raiſins ſtoned four ounces, Dates two ounces, Sena an ounce and half, Saſſafras an ounce, Anniſeeds, Caruay ſeeds, Co<g ref="char:EOLhyphen"/>riander ſeeds prepared of each half an ounce. Put them all together in a Bag and tun it up into three gallons of ſmall Ale, when it is three dayes old let her begin to drink of it. Let
+<pb n="46" facs="tcp:170299:30"/> her drink, half a pinte every morning faſting, and as much at four in the afternoon ſo long as it ſhall laſt.</p>
+               <p>Some are cured onely by exerciſe without any other means whatſoever, and indeed without exerciſe all things elſe are in vain.</p>
+            </div>
+         </div>
+         <div n="8" type="chapter">
+            <head>
+               <hi>CHAP. VIII.</hi> To prevent Abortiveneſs or Miſcarriage.</head>
+            <p>IT is a common obſervation, that they that have once miſcarried are more ſubject to miſcarry again, then they that have never miſcarri<g ref="char:EOLhyphen"/>ed before. Wherefore I would ad<g ref="char:EOLhyphen"/>viſe them that have never miſcarried, by no means to take, or do, any thing to prevent Abortment, leſt thereby they bring upon themſelves that which they do without cauſe fear. But whoſoever hath once by
+<pb n="47" facs="tcp:170299:30"/> any accident whatſoever miſcarried, ſhe is thereby rendered in much dan<g ref="char:EOLhyphen"/>ger of after miſcarriages whenſoever ſhe ſhall be with childe. To prevent this let her obſerve, as near as ſhe can, the time when the occaſion was given of her former abortment: and when ſhe ſhall be again with childe let her bleed in the right arm ſeven ounces, more or leſs according to her ſtrength, ſixe weeks before the time of her former miſcarriage: As if ſhe ſhould have formerly miſcar<g ref="char:EOLhyphen"/>ried when ſhe was ſixteen weeks gone with childe, or thereabouts; when ſhe ſhall be with childe again, let her bleed when ſhe is about ten weeks gone. But if ſhe can know ex<g ref="char:EOLhyphen"/>actly to a day, how long ſhe was gone with childe when the occaſion of her former abortment was given, and alſo doth certainly know the very time of her conception again, let her omit her bleeding until a juſt
+<pb n="48" facs="tcp:170299:31"/> fortnight before the time of her for<g ref="char:EOLhyphen"/>mer miſcarriage. After ſhe is let bloud, let her take the quantity of a Nutmeg of this following Electua<g ref="char:EOLhyphen"/>ry thrice a day, <hi>viz.</hi> in the morning faſting, at four in the afternoon, and at night to bedward, ſo long as it ſhall laſt; always drinking after it five or ſixe ſpoonfuls of Red wine.</p>
+            <div type="section">
+               <head>The Electuary.</head>
+               <p>TAke conſerve of red Roſes three ounces, conſerve of Sage flowers two ounces, conſerve of the flowers of water Lillies an ounce, the powder of Date ſtones two drams, fine Bole powdered a dram, with as much ſy<g ref="char:EOLhyphen"/>rupe of Comfrey as is ſufficient; mix them into an Electuary.</p>
+               <p>Let her uſe moderate exerciſe du<g ref="char:EOLhyphen"/>ring the time of her being with child; and by all meanes let her diet be whatſoever ſhe hath a minde to.</p>
+               <pb n="49" facs="tcp:170299:31"/>
+               <p>
+                  <hi>Some have uſed onely the powder of Date-ſtones, and fine Bole mixt to<g ref="char:EOLhyphen"/>gether with good ſucceſs.</hi>
+               </p>
+               <p>
+                  <hi>This following Plaiſter applied a<g ref="char:EOLhyphen"/>thwart the ſmall of the back is very good.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <head>The Plaiſter.</head>
+               <p>TAke <hi>Emplaſtrum ad Herniam</hi> an ounce, Bees waxe half an ounce, Cyprian terpentine and oyl of Myrtils of each two drams. Melt them together, and ſpread it upon lea<g ref="char:EOLhyphen"/>ther to be applied as above written.</p>
+               <p>Let her boyl Shepheards purſe and Comfrey roots in her broth; and let a gad of Steel be quenched in all the Beer ſhe drinks. It is good for her to ſweat a little now and then; but ra<g ref="char:EOLhyphen"/>ther let it be procured by exerciſe then any ſweating Medicine whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            </div>
+         </div>
+         <div n="9" type="chapter">
+            <pb n="50" facs="tcp:170299:32"/>
+            <head>
+               <hi>CHAP. IX.</hi> Of Sterility or Barrenneſs.</head>
+            <p>THe cauſe of Barrenneſs proceed<g ref="char:EOLhyphen"/>eth commonly from the diſtem<g ref="char:EOLhyphen"/>per of the Womb, which is either too moiſt, or too dry; both which I ſhall proſecute in their order: and firſt, of the firſt.</p>
+            <p>The too much moiſture of the womb proceedeth either from the knowledge of ſeveral men as com<g ref="char:EOLhyphen"/>monly in Whores, or elſe from the looſe and humid temperament of the whole body, as ſometimes in other women. The womb being too much humected and moiſtened, doth there<g ref="char:EOLhyphen"/>by loſe its retentive faculty of keep<g ref="char:EOLhyphen"/>ing the ſeed; the ſlipperineſs whereof muſt be corrected by altering the moiſt temperament of the body.</p>
+            <pb n="51" facs="tcp:170299:32"/>
+            <p>TAke a Cock and break all his bones, then boyl him in ſixe quarts of Water, with theſe follow<g ref="char:EOLhyphen"/>ing ingredients, in an earthen or iron pot cloſe covered, over a gentle fire, until the liquor when it is cold, ſhall be of the conſiſtence of a Gelley. Strain it and ſweeten it with double refined ſugar: and let her drink a porrenger of it at a time, three or four times in a day, for the ſpace of thirty or forty dayes.</p>
+            <div type="section">
+               <head>The Ingredients.</head>
+               <p>RAſpt Harts horn ſix ounces, the roots of China and Sarſaparil<g ref="char:EOLhyphen"/>la of each an ounce and half, Shep<g ref="char:EOLhyphen"/>heards purſe a handful, Biſtort roots an ounce, Cinamon half an ounce, Nutmeg and large Mace of each a dram.</p>
+               <p>In the mean time let her ſwallow three ſmall Pills made out of this
+<pb n="52" facs="tcp:170299:33"/> following Maſs, every other night when ſhe goes to bed.</p>
+            </div>
+            <div type="section">
+               <head>The Maſs for Pills.</head>
+               <p>TAke Aloes three drams, Myrrh two drams, the gum of Guaja<g ref="char:EOLhyphen"/>cum a dram, Saffron half a dram: Make them all into fine powder, and with as much ſyrupe of Mugwort as is ſufficient; beat them into a Maſs or Paſte, out of which let her form Pills as ſhe ſhall have occaſion.</p>
+               <p>After ſhe hath done taking her pills and gelley, let her return to her uſual Diet, onely let her be ſure to quench a gad of Steel in all the Beer ſhe drinks.</p>
+               <p>The dryneſs of the womb doth alſo cauſe ſterility, in that the womb is thereby rendered incapable of ma<g ref="char:EOLhyphen"/>king its application to the ſeed ſo ſoon as it is injected: for if the ſeed be not immediately embraced by the contraction and application of the
+<pb n="53" facs="tcp:170299:33"/> womb unto it, it cannot ferment: and conſequently it doth become uſeleſs for generation.</p>
+               <p>From the defect of moiſture pro<g ref="char:EOLhyphen"/>ceedeth a ſcirrhoſity or hardneſs in the womb; unto which hardneſs we muſt have a reſpect in our preſcripti<g ref="char:EOLhyphen"/>ons, as well as unto the alteration of the whole body.</p>
+               <p>Let her make three ſmall Pills out of this following Maſs, and ſwallow them down every morning faſting for the ſpace of ten dayes together, al<g ref="char:EOLhyphen"/>ways exerciſing after them.</p>
+            </div>
+            <div type="section">
+               <head>The Maſs for Pills.</head>
+               <p>TAke Aloes three drams, Gum Ammoniacum diſſolv'd in Vi<g ref="char:EOLhyphen"/>negar two drams, ſalt of Steel a dram. Crabs eyes and <hi>Tartarum vitriola<g ref="char:EOLhyphen"/>tum</hi> of each half a dram; with as much Oxymel of Squills as ſhall be ſufficient: make them up into a Maſs according to art.</p>
+               <pb n="54" facs="tcp:170299:34"/>
+               <p>After ten dayes let her begin to bath in a <hi>Semicupium,</hi> that is, to ſit in an artificial Bath up to her navel: let her firſt continue half an hour in the Bath, and ſo longer and longer by degrees, that in her latter bathings ſhe may continue a full hour or more.</p>
+               <p>Boyl a good quantity of theſe fol<g ref="char:EOLhyphen"/>lowing ingredients in ſo much water, as that when they are ſufficiently boyled there may be liquor enough for her to ſit up to the navel therein in a convenient Tub or ba<g ref="char:EOLhyphen"/>thing veſſel. Let not the ingredients be taken out of the liquor wherein ſhe doth bath. Let her bath one day, give her a Clyſter the ſecond day; and the third day let her take three of the ſame pills whereof ſhe took e<g ref="char:EOLhyphen"/>very morning before her bathing. Let her continue this courſe for the ſpace of 30 days. The Clyſter which ſhe is to take every third day is as follows.</p>
+            </div>
+            <div type="section">
+               <pb n="55" facs="tcp:170299:34"/>
+               <head>The Clyſter.</head>
+               <p>TAke Mallows, Mercury, Beets, Chamomile and Mellilot flow<g ref="char:EOLhyphen"/>ers of each half a handful, Aniſeeds half an ounce, boyl them in a pinte and half of water until half be wa<g ref="char:EOLhyphen"/>ſted: ſtrain away the ingredients, and diſſolve in the ſtrained liquor brown Sugar two ounces, the yolk of one Egg, Caſtle-ſoap one dram.</p>
+               <p>Let there be injected into her womb with a <hi>Matrix</hi>-Syringe ſome of the aforefaid Clyſter about a quar<g ref="char:EOLhyphen"/>ter of an hour before ſhe takes it Clyſter-wiſe.</p>
+               <p>This, by Gods bleſſing will make her that is barren a happy mother, and take away her reproach amongſt women. But before ſhe uſeth the a<g ref="char:EOLhyphen"/>foreſaid means, let her be very cer<g ref="char:EOLhyphen"/>tain whether the diſtemper of her womb be from drineſs or from moi<g ref="char:EOLhyphen"/>ſture, which ſhee ſhall know by
+<pb n="56" facs="tcp:170299:35"/> theſe following ſignes.</p>
+               <p>If the diſtemper of the womb pro<g ref="char:EOLhyphen"/>ceed from drineſs, there is oftentimes felt a ſenſible hardneſs therein, which is called a <hi>Callus,</hi> proceeding from a melancholick juyce in the body. She is ſcarce ſatisfied with the act of <hi>Venus.</hi> She hath commonly a heat and drineſs in her hands. She is much inclined to Warts in other parts of her body. She commonly diſgeſts her meat well.</p>
+               <p>But if from moiſture, ſhe is of weak diſgeſtion. She hath never any appetite to her meat immediately af<g ref="char:EOLhyphen"/>ter ſleep. She is often ſick or ſleepy after meat. She hath a heavineſs like unto a weight in her head. She is liſtleſs and indiſpoſed to exerciſe.</p>
+               <p>By ſuch like ſignes it is not hard to determine certainly the true cauſe of Sterility in any woman whatſoever.</p>
+               <pb n="57" facs="tcp:170299:35"/>
+               <p>
+                  <hi>Mineral waters which come from Iron Mines do ſometimes help thoſe that are barren.</hi>
+               </p>
+               <p>
+                  <hi>The frequent uſe of Sage is much commended by ancient Writers; the reaſon is becauſe it is rough and fix<g ref="char:EOLhyphen"/>ing, and conſequently it doth correct the ſlipperineſs of the womb.</hi>
+               </p>
+               <p>
+                  <hi>The Cock-treadings of three new laid Eggs diſſolved in four or five ſpoonfuls of Vinegar, and drunk down about half a quarter of an hour af<g ref="char:EOLhyphen"/>ter ſhe hath had to do with her huſ<g ref="char:EOLhyphen"/>band, is accounted a great ſecret.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="10" type="chapter">
+            <head>
+               <hi>CHAP. X.</hi> To cauſe ſpeedy delivery in Childe-birth.</head>
+            <p>
+               <hi>BE ſure her appointed time be come before you attempt to uſe meanes for the haſtening of her delivery.</hi> Give her nothing which nouriſheth,
+<pb n="58" facs="tcp:170299:36"/> but onely thoſe things which have a Phyſical reſpect to her preſent con<g ref="char:EOLhyphen"/>dition. I am of opinion, that they which have difficult and long La<g ref="char:EOLhyphen"/>bours, are hindered by the too much indulgence of thoſe that are about them, in giving them nouriſhing things, as they think, to ſupport na<g ref="char:EOLhyphen"/>ture: whereas in ſeveral reſpects na<g ref="char:EOLhyphen"/>ture is thereby prevented from doing thoſe offices which are ſuitable to the preſent condition of the Patient. Let her wholly abſtain from all things that nouriſh. Let a Suppoſitory be put up made of Honey and Salt ac<g ref="char:EOLhyphen"/>cording to art; and after that is com'd away put up another.</p>
+            <p>Boyl three or four handfuls of Mugwort a little while in Spring water, then ſtrain it from the liquor and put the hearb into a bag and ap<g ref="char:EOLhyphen"/>ply it warm to her navel.</p>
+            <p>They which are ſo good accoun<g ref="char:EOLhyphen"/>tants as to know to a day the time
+<pb n="59" facs="tcp:170299:36"/> of their Travail, may aſſure them<g ref="char:EOLhyphen"/>ſelves of eaſie and ſpeedy labour, if three or four dayes before they do obſerve a ſtrict and ſparing diet.</p>
+            <p>
+               <hi>A dram of Myrrh powdered and given to drink in white Wine, cauſeth ſpeedy Delivery.</hi>
+            </p>
+            <p>
+               <hi>Some have uſed Iriſh Slate with good ſucceſs; others do commonly uſe</hi> Sperma Caeti, <hi>or Bezoar: And ſome Midwives give onely the pow<g ref="char:EOLhyphen"/>der of</hi> Ariſtolochia <hi>or Birth-wort, be<g ref="char:EOLhyphen"/>cauſe that doth after a more powerful manner cauſe ſpeedy Delivery then thoſe before mentioned: But this is fitteſt to be given to thoſe that are of ſtrong conſtitutions.</hi>
+            </p>
+         </div>
+         <div n="11" type="chapter">
+            <pb n="60" facs="tcp:170299:37"/>
+            <head>
+               <hi>CHAP. XI.</hi> To expel the Secondine or After-birth.</head>
+            <p>THe ſame things which cauſe ſpeedy Delivery, do alſo help to expel the After-birth, or part thereof, if it be broken and left be<g ref="char:EOLhyphen"/>hinde in the body. Yet notwithſtan<g ref="char:EOLhyphen"/>ding all means uſed, ſometimes there is ſome part of the After-birth left behinde, which cannot ſpeedily be brought away, but doth putrifie in the wombe, and doth cauſe dange<g ref="char:EOLhyphen"/>rous ſymptomes, and oftentimes death. I would therefore adviſe all Midwives to be ſure that the whole After-birth come away in its proper time, ſo ſoon as the Childe is born, without mangling or tearing: which may be done with eaſe, ſpeed, and
+<pb n="61" facs="tcp:170299:37"/> ſafety, by putting up their whole hand into the body, and therewith gently ſeparating the ſame from the walls of the womb. I confeſs they that truſt to the ſtrength of the Na<g ref="char:EOLhyphen"/>vel-ſtring (which I preſume moſt do) have ſcarce the After-birth of one in twenty broken. Yet it is great pity that one in a hundred ſhould ſuffer in the like nature, there being ſuch a way and means to prevent it, where<g ref="char:EOLhyphen"/>upon there is no other inconvenience doth enſue. Upon all occaſions when I have been called to caſes of great difficulty, I have ever made ſure with the After-birth, by putting up my whole hand as afore-ſaid; and, with what ſucceſs, they which have had experience do well know. Nei<g ref="char:EOLhyphen"/>ther have I ever obſerv'd any incon<g ref="char:EOLhyphen"/>venience enſuing: which makes me bold to counſel all Midwives to do the like.</p>
+         </div>
+         <div n="12" type="chapter">
+            <pb n="62" facs="tcp:170299:38"/>
+            <head>
+               <hi>CHAP. XII.</hi> For the over-flowing of Milk in womens Breaſts.</head>
+            <p>MAny women are inclined to this diſtemper: which proceeds either from the weakneſs of the breaſts, the retentive faculty thereof being loſt, or elſe from the wateriſh temperament of the Maſs of bloud or humours contained in the Veins and Arteries, and in ſome women there are both theſe cauſes.</p>
+            <p>
+               <hi>Let her drink a quarter of a pinte of this following Apozeme in a mor<g ref="char:EOLhyphen"/>ning faſting, at four in the afternoon, and at night to bed-ward, ſo long as it ſhall laſt.</hi>
+            </p>
+            <div type="section">
+               <head>The Apozeme.</head>
+               <p>Take Guajacum four ounces, Chi<g ref="char:EOLhyphen"/>na,
+<pb n="63" facs="tcp:170299:38"/> Saſſafras, and Sarſaparilla of each an ounce, Liquorice an ounce and half, Agrimony and Betony of each a handful, Raiſins ſtoned four oun<g ref="char:EOLhyphen"/>ces: infuſe them all night in two gallons of warm water; in the mor<g ref="char:EOLhyphen"/>ning boyl them in a Veſſel cloſe co<g ref="char:EOLhyphen"/>vered, until half be waſted. Strain away the ingredients, and drink the liquor as aforeſaid.</p>
+               <p>After ſhe hath taken this Apo<g ref="char:EOLhyphen"/>zeme, let her take the quantity of a Nutmeg of conſerve of red Roſes vi<g ref="char:EOLhyphen"/>triolated three or four times a day untill her conſtitution be altered. Let her, all this while, wear upon her Breaſts plaiſters of Oxycro<g ref="char:EOLhyphen"/>ceum.</p>
+            </div>
+         </div>
+         <div n="13" type="chapter">
+            <pb n="64" facs="tcp:170299:39"/>
+            <head>
+               <hi>CHAP. XIII.</hi> To dry up the Milk in wo<g ref="char:EOLhyphen"/>mens Breaſts.</head>
+            <p>TAke <hi>
+                  <g ref="char:V">Ʋ</g>nguentum Populeon</hi> and <hi>Diachylon</hi> Plaiſter of each an ounce and half, melt them together, and when it is almoſt cold, ſtir into it two drams of the powder of Alaba<g ref="char:EOLhyphen"/>ſter, and a dram of <hi>Lapis calamina<g ref="char:EOLhyphen"/>ris</hi> finely powdered. Make two large plaiſters hereof, and apply them to her breaſts. Let her wear black wool in her armpits. If this ſucceed not, let her purge with a dram of <hi>Pilulae Cochiae.</hi> If after her purging ſhe per<g ref="char:EOLhyphen"/>ceive not her Milk to dry up, give her the Apozeme in the fore-going Chapter, <hi>For the over-flowing of Milk, &amp;c.</hi>
+            </p>
+         </div>
+         <div n="14" type="chapter">
+            <pb n="65" facs="tcp:170299:39"/>
+            <head>
+               <hi>CHAP. XIV.</hi> For an Ulcer in the Womb.</head>
+            <p>FIrſt take away eight ounces of bloud, more or leſs according to the Patients ſtrength, from her right arm, the next day after her bleeding let her begin to take of this following Electuary; let her continue the ſame for the ſpace of one and twenty days, give her the quantity of a Nutmeg of it at a time twice a day, <hi>viz.</hi> in the morning faſting, and at four in the afternoon, in the mean time, once in ſeven days let her purge with this following Potion.</p>
+            <div type="section">
+               <head>The Electuary.</head>
+               <p>Take conſerve of Scurvy-graſs four ounces, conſerve of Roman
+<pb n="66" facs="tcp:170299:40"/> Wormwood two ounces, Crabs eyes finely powdered three drams, <hi>Tar<g ref="char:EOLhyphen"/>tarum Vi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>riolatum</hi> a dram and half, ſalt of Steel a dram, w th as much ſyrupe of Mint as ſhall be ſufficient; mix them together into an Electuary.</p>
+            </div>
+            <div type="section">
+               <head>The purging Potion.</head>
+               <p>Take Sena three drams, Rubarb a dram, Agarick half a dram, Cori<g ref="char:EOLhyphen"/>ander ſeeds prepared a ſcrupl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, Spike<g ref="char:EOLhyphen"/>nard ten grains; infuſe them in four ounces of white Wine for the ſpace of twelve houres, ſtrain away the ingredients, and diſſolve in the ſtrain<g ref="char:EOLhyphen"/>ed liquor ſyrupe of Roſes ſolutive an ounce, Manna half an ounce, oyl of Vitriol ſeven drops.</p>
+               <p>After ſhe hath taken one and twenty dayes of her Electuary, and purged thrice, <hi>viz</hi> every ſeventh day, let her drink of this following Apozeme for the ſpace of one and
+<pb n="67" facs="tcp:170299:40"/> twenty dayes more, eight or nine ſpoon<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uls at a time every morning faſting, and at night to bed-ward.</p>
+            </div>
+            <div type="section">
+               <head>The Apozeme.</head>
+               <p>Take the roots of China and Sar<g ref="char:EOLhyphen"/>ſaparilla of each an ounce and half, Agrimony, Mugwort, Sanicle, Shep<g ref="char:EOLhyphen"/>heards purſe of each half a handful, Liquorice an ounce and half; boyl them in three quarts of water until half be waſted: ſtrain away the in<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ents, and ſweeten the liquor with ſyrupe of Mint: whereof let her drink as aforeſaid.</p>
+               <p>During the time of taking her A<g ref="char:EOLhyphen"/>pozeme, let her uſe injections twice a day, viz. in the morning, and at four in the afternoon. Let her uſe this following injection in the mor<g ref="char:EOLhyphen"/>ning, and the next after in the af<g ref="char:EOLhyphen"/>ternoon.</p>
+            </div>
+            <div type="section">
+               <pb n="68" facs="tcp:170299:41"/>
+               <head>The Injection for the morning.</head>
+               <p>Boyl a quarter of a pound of Gua<g ref="char:EOLhyphen"/>jacum in two quarts of water until half be waſted, then diſſolve in the ſtrained liquor <hi>Calcanthum Roma<g ref="char:EOLhyphen"/>num</hi> called commonly the Celeſtial ſtone two drams. The ſtone will of it ſelfe diſſolve in the liquor being put therein.</p>
+            </div>
+            <div type="section">
+               <head>The Injection for the After<g ref="char:EOLhyphen"/>noon.</head>
+               <p>Take the flowers of St. Johns wort, Plantain, Knot-graſs, Shepheards purſe, and Horſe-tail of each a hand<g ref="char:EOLhyphen"/>ful, red Roſe leaves half a handful, Biſtort roots an ounce and half: boyl them in four pintes of Spring water, until half be waſted<g ref="char:punc">▪</g> ſtrain away the ingredients, and reſerve the liquor for your uſe, putting thereto four
+<pb n="69" facs="tcp:170299:41"/> ounces of ſyrupe of dried Roſes.</p>
+               <p>After ſhe hath made uſe of theſe injections and taken her Apozeme as aforeſaid, let her drink, until ſhe be well, twice or thrice in a day, a draught of Whay wherein ſome Vul<g ref="char:EOLhyphen"/>nerary herbs have been ſteeped or boyled: of which ſort are Avens, Bu<g ref="char:EOLhyphen"/>gle, Comfrey, St. Johns wort, Dan<g ref="char:EOLhyphen"/>delion, Agrimony, Hony-ſuckles, Mugwort, Mint, Plantain, Rib<g ref="char:EOLhyphen"/>wort, &amp;c.</p>
+               <p>Let her eat no fleſh-meat during the whole time of her cure.</p>
+            </div>
+         </div>
+         <div n="15" type="chapter">
+            <head>
+               <hi>CHAP. XV.</hi> For a Cancer in the Womb.</head>
+            <p>FIrſt take away eight ounces of bloud from her left arm, the next day after let her begin to take of this following Electuary and Apo<g ref="char:EOLhyphen"/>zeme,
+<pb n="70" facs="tcp:170299:42"/> continuing the ſame for the ſpace of twenty dayes. Give her the quantity of a large Nutmeg of her E<g ref="char:EOLhyphen"/>lectuary every morning faſting, and immediately after it let her drink a quarter of a pinte of the Apozeme.</p>
+            <div type="section">
+               <head>The Electuary.</head>
+               <p>Take conſerve of Borage and Bu<g ref="char:EOLhyphen"/>gloſs flowers of each two ounces, prepared Steel three drams, the black ends of the clawes of Crabs finely powdered two drams, black Amber, that is, Jet, finely powdered a dram and half, oyl of Vitriol twen<g ref="char:EOLhyphen"/>ty drops wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h as much ſyrupe of Co<g ref="char:EOLhyphen"/>ral as ſhall be ſufficient; mix them together into an Electuary.</p>
+            </div>
+            <div type="section">
+               <head>The Apozeme.</head>
+               <p>Take Garden Scurvigraſs three handfuls, Fumitary and Maiden hair
+<pb n="71" facs="tcp:170299:42"/> of each a handful, Sena two ounces, Pollypody of the Oak an ounce and half, <hi>Epithymum</hi> an ounce, Liquo<g ref="char:EOLhyphen"/>rice and Fennel ſeeds of each ſix drams, black Hellebore half an ounce. Boyl them all together in a gallon of Rain water over a gentle fire, in an iron pot cloſe covered, un<g ref="char:EOLhyphen"/>til half be waſted: Strain away the ingredients, and ſweeten the ſtrain<g ref="char:EOLhyphen"/>ed liquor with brown Sugar or com<g ref="char:EOLhyphen"/>mon Triacle.</p>
+               <p>After ſhe hath taken her Apo<g ref="char:EOLhyphen"/>zeme and Electuary, let the part be fomented twice a day with this following fomentation, and preſent<g ref="char:EOLhyphen"/>ly after it is fomented, annoint it with this following Liniment. Conti<g ref="char:EOLhyphen"/>nue the fomentation and liniment un<g ref="char:EOLhyphen"/>til ſhe be cured.</p>
+               <p>The Fomentation is onely the decoction of the herb <hi>Iſatis,</hi> cal<g ref="char:EOLhyphen"/>led in Engliſh, Woad; you may have the liquor out of a Diers
+<pb n="72" facs="tcp:170299:43"/> fat ready for your uſe.</p>
+            </div>
+            <div type="section">
+               <head>The Liniment.</head>
+               <p>Take twenty Egs, boyl them or roaſt them hard; then take out the yolks and put them into a Skillet, and ſet it over a gentle fire, then break the yolks with a ſpoon, and ſtir them continually that they may not burn: keep them ſtirring over the fire, untill you ſhall perceive them to be full of oyl, then take them from the fire and ſtrain out the oyl. Take of this oyl two ounces, of the juyces of Houſeleek, Nightſhade, and Rue of each half an ounce, Quick-ſilver two drams: beat them all together in a Leaden Mortar with a Leaden Peſtel, untill they be perfectly incorporated: Uſe this Li<g ref="char:EOLhyphen"/>niment as aforeſaid.</p>
+               <p>During the whole time ſhe uſes the Liniment and Fomentation, let
+<pb n="73" facs="tcp:170299:43"/> her every morning drink a draught of Whay or Poſſet-drink, wherein have been diſſolved ten grains of <hi>Tartarum Vitriolatum.</hi> Let her eat no kinde of fleſh-meat, except Rab<g ref="char:EOLhyphen"/>bets or Partridges.</p>
+            </div>
+         </div>
+         <div n="16" type="chapter">
+            <head>
+               <hi>CHAP. XVI.</hi> For a Dropſie in the Womb.</head>
+            <p>GIve her three ſmall Pills made out of this following Maſs for the ſpace of ten dayes together.</p>
+            <div type="section">
+               <head>The Maſs for Pills.</head>
+               <p>Take <hi>Aloes Roſata</hi> two drams, Myrrh two ſcruples, <hi>Caſtoreum</hi> half a dram, Saffron a ſcruple: make them all into very fine powder, and with as much ſyrupe of Mugwort as is ſufficient make thereof a Maſs for Pills.</p>
+               <pb n="74" facs="tcp:170299:44"/>
+               <p>After ſhe hath taken all her Pills, let her drinke a quarter of a pinte of this following Apozeme every mor<g ref="char:EOLhyphen"/>ning faſting for the ſpace of ten dayes more.</p>
+            </div>
+            <div type="section">
+               <head>The Apozeme.</head>
+               <p>Take horſe Radiſh-roots an ounce and half, Saſſafras an ounce, the roots of red Madder, Butchers broom, and Aſparagus, of each half an ounce, Fennel ſeeds, Dill ſeeds, Caruay ſeeds of each two drams; boyl them in White wine and Spring wa<g ref="char:EOLhyphen"/>ter of each three pintes until half be waſted; ſweeten the ſtrained liquor with ſyrupe of the five opening roots.</p>
+               <p>When ſhe hath done all her Apo<g ref="char:EOLhyphen"/>zeme, let her bath in a <hi>Semicupium</hi> every other day until her belly be fallen.</p>
+            </div>
+            <div type="section">
+               <pb n="75" facs="tcp:170299:44"/>
+               <head>The Semicupium.</head>
+               <p>Boyl a ſufficient quantity of theſe following ingredients in ſo much water, that when the liquor is ſtrong of the ingredients, there may be e<g ref="char:EOLhyphen"/>nough for her to ſit up to the Navel therein, in a Tub or convenient ba<g ref="char:EOLhyphen"/>thing veſſel.</p>
+            </div>
+            <div type="section">
+               <head>The Ingredients.</head>
+               <p>Chammomile and Mellilot flow<g ref="char:EOLhyphen"/>ers, Bay berries, Cummin ſeeds, Sage, Wormwood, Penny royal, Mugwort Bryony root, Horſe-raddiſh roots, Anniſeeds, Fennel ſeeds, Thime, Majoran, Roſe-mary. Alwaies immediately after her bathing, let her belly be anointed with Chymical oyl of Dill.</p>
+               <p>Let her diet be very ſpare, but chiefly of fleſh meat, let her exerciſe much: let her ſleep but moderately.</p>
+            </div>
+         </div>
+         <div type="part">
+            <pb facs="tcp:170299:45"/>
+            <pb facs="tcp:170299:45"/>
+            <head>Phyſicall paradoxes.</head>
+            <p>PHyſicall knowledge, which is no<g ref="char:EOLhyphen"/>thing elſe but an obſervation of the order and courſe of Nature, was by the Ancients begun and founded upon experience, and afterwards traditionally communicated unto poſterity. It was firſt in the particu<g ref="char:EOLhyphen"/>lar ſenſes, then in the common ſenſe, and by degrees introduced into the intellect, and there digeſted into a ſcience: which ſcience, being analy<g ref="char:EOLhyphen"/>z'd or reſolved into parts, might with eaſe by others be attained unto by reading<g ref="char:punc">▪</g> although by the begin<g ref="char:EOLhyphen"/>ners thereof it was onely elabora<g ref="char:EOLhyphen"/>ted by experience: <hi>as for example.</hi> Any one of an indifferent capacity may in a ſhort time have the whole body of naturall philoſophy in his mind, by reading over ſome ſhort
+<pb n="78" facs="tcp:170299:46"/> phyſicall ſyſteme whereas another of a moſt penetrating wit cannot at<g ref="char:EOLhyphen"/>tain thereto in many years by the onely light of Nature. Hence it is that the Ancients who had no con<g ref="char:EOLhyphen"/>ſiderable writings from others were ſo laborious and induſtrious in the inventing of arts and ſciences; that they eſteemed mans life too ſhort for the perfecting of one art<g ref="char:punc">▪</g> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſaith Hip<g ref="char:EOLhyphen"/>pocrates<g ref="char:punc">▪</g> 
+               <hi>life is ſhort but art is long.</hi> But the ſucceeding ages, being heirs to the writings of their predeceſſors, became ſo careleſſe and negligent of farther knowledge, that they did wholl forſake that way which their anceſtours uſed, and did con<g ref="char:EOLhyphen"/>tent themſelves onely with a ſpecu<g ref="char:EOLhyphen"/>lative knowledge of reading over the writings of others, this book-learning hath been ſo ſacred amongſt ſuch-like ſchollars of ſuperficiall and ſpeculative knowledge, that it
+<pb n="79" facs="tcp:170299:46"/> hath been by them accounted a <hi>Pia<g ref="char:EOLhyphen"/>culum</hi> to gainſay the leaſt tenet of generally received philoſophy. It is not long ſince our univerſities were to guilty of taking upon truſt the opi<g ref="char:EOLhyphen"/>nions of others, confirming their aſ<g ref="char:EOLhyphen"/>ſertions by <hi>ſic dicit Ariſtoteles,</hi> whereas Ariſtotle himſelf could ſay <hi>Amicus Plato, amicus Socrates, ſed magis amica veritas.</hi> Ariſtotle well knew that if ſome doubt ſhould not be made of the poſitions of the beſt Author, truth could not poſſibly be diſcerned from error. And indeed if Ariſtotle himſelf ſhould have been beleev'd in all things, the world ſhould have ſtill retained thoſe chi<g ref="char:EOLhyphen"/>meras of the elementary fire, the motions of the heavens by intelligen<g ref="char:EOLhyphen"/>ces <hi>&amp;c.</hi> If faith ſhould have been given to the writings of Hippocrates without all exceptions, many wo<g ref="char:EOLhyphen"/>men with childe had periſhed whoſe lives have been ſaved by letting
+<pb n="80" facs="tcp:170299:47"/> bloud. If ſucceeding ages had reſted in Galens knowledge, the ſcioliſts of our dayes would have made mad work with <hi>hellebore, ſcammony, colo<g ref="char:EOLhyphen"/>cynth</hi> &amp;c. ſuch violent and dange<g ref="char:EOLhyphen"/>rous purging medicines as Galen onely knew.</p>
+            <p>If ſome in this age had not doubt<g ref="char:EOLhyphen"/>ed all authority whatſoever, the circular motion of the bloud had not beene diſcovered.</p>
+            <q>Is qui nil dubitat.</q>
+            <p>The common wealth of learning hath received the greateſt advanta<g ref="char:EOLhyphen"/>ges from ſuch as have not been con<g ref="char:EOLhyphen"/>tented to tread in the common road, but have taken to themſelves the liberty to try whether the moſt gene<g ref="char:EOLhyphen"/>rally received tenets might not have been at firſt taken up by a miſunder<g ref="char:EOLhyphen"/>ſtanding of circumſtances.</p>
+            <p>Now they which have made the beſt diſcoveries in all ages have al<g ref="char:EOLhyphen"/>waies found many adverſaries, and
+<pb n="81" facs="tcp:170299:47"/> have been accuſed of affecting ſin<g ref="char:EOLhyphen"/>gularity untill ſuch time as their opinions grew popular, the reaſon is becauſe the world takes no notice of that way and means by which the ancients gott their knowledge.</p>
+            <p>They which make new diſcove<g ref="char:EOLhyphen"/>ries, and do adde to arts and ſciences, or doe obliterate any thing which hath been generally received, have no other way to doe this then the ancients had for the invention of the ſaid arts and ſciences, for there can<g ref="char:EOLhyphen"/>not poſſibly be any phyſicall know<g ref="char:EOLhyphen"/>ledge in the intellect which hath not firſt been in ſome ſort in the ſenſe. He that could never ſee or hear can<g ref="char:EOLhyphen"/>not poſſibly have any notion of ſounds or colours in his mind: be<g ref="char:EOLhyphen"/>cauſe the notion of ſounds or colours is nothing elſe but the remembrance of such things ſeen or heard. Seeing then it is ſo that ſenſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble experience is the firſt foundation of all ſcience;
+<pb n="82" facs="tcp:170299:48"/> why ſhould not we, that have had more experience, make collections of our experiments as the ancients did; thereby not deſpairing to gain a more exquiſite knowledge?</p>
+            <p>We have meditated upon ſome experiments, from whence there doe ſeeme unto us to reſult ſome concluſi<g ref="char:EOLhyphen"/>ons which whether they agree or not with what others have concluded it is not on our parts either to exa<g ref="char:EOLhyphen"/>mine or to regard: but it more con<g ref="char:EOLhyphen"/>cerns us to examine and take notice whether ſuch concluſions be rightly taken up from ſuch experiments and whether we may not be deceived by miſunderſtanding ſome circumſtan<g ref="char:EOLhyphen"/>ces.</p>
+            <p>We have obſerved in ſeverall cre<g ref="char:EOLhyphen"/>atures that the bloud which is found in the heart and adjacent parts doth differ from that which is in the ſmaller veins.</p>
+            <p>The opening of a jugular vein
+<pb n="83" facs="tcp:170299:48"/> eaſeth the extreme paine in the head, when phlebotomy in other parts is not proficuous.</p>
+            <p>A ſmall quantity of blood taken from the ſublinguary veins a<g ref="char:EOLhyphen"/>bateth an inflammation of the eyes, whereas letting blood as a generall evacuation doth not conduce, the like is obſerved in inflammations of the throat, ears, and other adjacent parts. In the tooth-ach a horſe leach applyed to that very gumme where the paine is although it draw but a very ſmall quantity of blood yet it doth immediately and wholly abate that extreme paine.</p>
+            <p>Bleeding in the left ſide is knowne by experience to be conducible to the cure of the ſplenetick diſtempers<g ref="char:punc">▪</g> and ſo likewiſe to take blood from the right ſide is obſerved to be moſt pro<g ref="char:EOLhyphen"/>ficuous in thoſe affections of the liver wherein phlebotomy is required.</p>
+            <p>Bleeding in the Hemarrhoidal
+<pb n="84" facs="tcp:170299:49"/> veins is an admirable remedie for thoſe diſtempers of the adjacent parts, eſpecially of the kidneys, wherein there is required evacu<g ref="char:EOLhyphen"/>ation.</p>
+            <p>A quartain ague is commonly a<g ref="char:EOLhyphen"/>bated, and ſometimes wholly cured by opening of the <hi>Salvatella.</hi>
+            </p>
+            <p>Vpon diſtempers of the ſpleen, the veins of the left ſide are fuller than thoſe of the right.</p>
+            <p>In the <hi>Hemicrania</hi> there may be ſeene a large vein in the temple of that ſide where the pain is, where<g ref="char:EOLhyphen"/>as the temporal vein of the other ſide is ſcarce viſible, and in all other parts where there is preſent pain proceeding from fulneſſe, the veins of thoſe parts are much fuller than the veins of other parts wherein there is no pain.</p>
+            <p>Often letting blood in the ſame vein cauſeth a diminution of the vein. I preſume by the ſame reaſon that the
+<pb n="85" facs="tcp:170299:49"/> umbilicall vein in infants having no blood in it to extend it, doth by de<g ref="char:EOLhyphen"/>grees leſſen, and at length degenerate into a nervous ſubſtance.</p>
+            <p>From theſe obſervations I con<g ref="char:EOLhyphen"/>clude that there is given by Nature a peculiar blood to each extreme vein in mans body: and that al<g ref="char:EOLhyphen"/>though the whole maſſe of blood doth indifferently paſſe through the arteriall vein, the venall artery, the heart, and part of the <hi>Aorta;</hi> yet it is afterwards divided in its paſſage towards the extreme parts, in ſuch ſort, that the ſeverall veins and ar<g ref="char:EOLhyphen"/>teries of the extreme parts do receive blood of ſome what a more different temperature the one from the other.</p>
+            <p>The blood of the <hi>Salvatella</hi> doth differ in temperature from that which is in the temporall veins al<g ref="char:EOLhyphen"/>though they do both meet together and mix in the ſubclaviary veins. And the blood which is in the ſubclaviary
+<pb n="86" facs="tcp:170299:50"/> veins, conſiſting of ſeverall parts, doth differ from that which is in the low<g ref="char:EOLhyphen"/>er part of the hollow vein (which doth conſiſt alſo of other ſeverall parts, being a compoſition of all that blood which was more ſimple in the re<g ref="char:EOLhyphen"/>ſpective branches of the hollow vein) although they are compounded in the upper part of the hollow vein, entering together into the right ven<g ref="char:EOLhyphen"/>tricle of the heart, for farther illuſ<g ref="char:EOLhyphen"/>tration hereof we may compare the maſſe of blood in mans body to the ſea in the greater world. The ſea by its <hi>Diaſtole</hi> doth ſend into the more inward parts of the earth, even to the extremes thereof a great quantity of water, which we know muſt neceſſarily be mixt in the ocean, as alſo in the great gulf which is the <hi>aorta</hi> thereof, where it firſt enters the earth; yet in the capillary veins, <hi>viz.</hi> the beginnings of ſprings we obſerve it to be pure and ſimple:
+<pb n="87" facs="tcp:170299:50"/> although again it doth become more and more mix'd and compounded, as by degrees, paſſing through the veins, <hi>viz.</hi> the more ſuperficiall ca<g ref="char:EOLhyphen"/>vities of the earth, it doth approach nearer and nearer to the ſea<g ref="char:punc">▪</g> we know that the moſt ſimple part of the blood is in ſome ſort a hetero<g ref="char:EOLhyphen"/>geneous body: yet comparatively we may call the blood in the ex<g ref="char:EOLhyphen"/>treme parts and capillary veins ho<g ref="char:EOLhyphen"/>mogeneous or ſimilar, and that which is in the larger veſſels and centre of the body heterogeneous or mix'd which, though it be mix'd, is in no wiſe confuſed: but it is even there ſo digeſted and ſo orderly diſpoſed; that upon the next pulſation of the heart it is diſperſed according to the order of Nature. Blood of ſuch like temperature as came from each par<g ref="char:EOLhyphen"/>ticular vein is orderly returned thi<g ref="char:EOLhyphen"/>ther again by the pulſation of the heart<g ref="char:punc">▪</g> no otherwiſe then Bees, that
+<pb n="88" facs="tcp:170299:51"/> in a ſummers day diſperſe them<g ref="char:EOLhyphen"/>ſelves ſeverally according to each ones <hi>genius</hi> ſome miles diſtance from the hive, and when at night they are return'd again, being all in the hive together, every one finds out his proper habitacle or place of abode (more by the wiſdome of Nature than the knowledge of each <hi>indivi<g ref="char:EOLhyphen"/>duum</hi>) that ſo they may be diſpoſed and ready each one to take the ſame journey the next day as it did the day before.</p>
+            <p>Nature, abhorring confuſion even as ſhe doth a <hi>vacuum,</hi> hath ſo oeco<g ref="char:EOLhyphen"/>nomiz'd the humours of mans body, that as they are mix'd by degrees in approaching nearer and nearer to the centre, ſo they doe meet with the graduall augmentation of heat, whoſe property it is to keep them ſtill in order by joyning the homo<g ref="char:EOLhyphen"/>geneal and diſjoyning the heteroge<g ref="char:EOLhyphen"/>neall parts thereof<g ref="char:punc">▪</g> and that the
+<pb n="89" facs="tcp:170299:51"/> blood may not be two much mix'd at too great a diſtance from the cen<g ref="char:EOLhyphen"/>tre where it cannot have heat ſuffi<g ref="char:EOLhyphen"/>cient to govern it, Nature hath pro<g ref="char:EOLhyphen"/>vided valves and put them in fit pla<g ref="char:EOLhyphen"/>ces, <hi>viz.</hi> the meetings together of the veins<g ref="char:punc">▪</g> for farther explanation of my meaning take an example, the blood which is in the ſubclavi<g ref="char:EOLhyphen"/>ary veins is a mix'd blood: and ſo is that which is in the hollow vein: yet neither of themſelves ſeverally are ſo much mix'd as afterwards at their enterance together into the heart: Now as the heat of mans body is moſt intenſe in the heart and by degrees more and more remiſſe towards the extreme parrs; ſo is the blood moſt mix'd in the heart and adjacent parts, and ſo leſſe and leſſe mixt as it is more and more remote from the centre, ſo that the hollow vein and the ſubclaviary veins have ſuch a mixture of blood as is anſwe<g ref="char:EOLhyphen"/>rable
+<pb n="90" facs="tcp:170299:52"/> to their diſtance from the heart as alſo a heat proportionable. But this juſt order and proportion might be violated, if Nature had not ap<g ref="char:EOLhyphen"/>pointed valves to do what on their parts is to be done<g ref="char:punc">▪</g> that blood which is in the hollow vein in its motion upwards, might, ſome of it, paſſe beyond the heart and enter into the ſubclaviary veins, if Nature had not placed valves there to forbid it: there might, I ſay, be in the ſubclaviary veins blood as much heterogeneous as that in the heart, whereas the heat is not there accordingly. And ſo if there were not valves in the meetings together of other veins, there might be a return of ſome blood, and conſequently too great a mixture at too great a diſtance, where it ſhould want heat ſufficient to govern it.</p>
+            <p>We have perceived ſenſibly in ſe<g ref="char:EOLhyphen"/>verall creatures that the blood of the
+<pb n="91" facs="tcp:170299:52"/> heart and adjacent parts doth differ from that blood which is in the ex<g ref="char:EOLhyphen"/>treme parts, but we never could per<g ref="char:EOLhyphen"/>ceive any ſenſible difference of that blood which is in the ſeverall veins of the extreme parts: yet notwith<g ref="char:EOLhyphen"/>ſtanding we have concluded that there is a difference. The reaſon is becauſe we know that all that blood which is found in the heart came from the ſeverall veins of the extreme parts.</p>
+            <p>We know likewiſe that if that blood which was in the extreame parts in ſeverall veins had not differed, there could not have reſulted in the com<g ref="char:EOLhyphen"/>poſition thereof ſuch a manifeſt dif<g ref="char:EOLhyphen"/>ference<g ref="char:punc">▪</g> as for example. I know ſome few ſprings meeting together which make up a brook able to turne a mill: this brook in its farther deſcent meets with another brook of ſuch-like pedegree as was the former: the water ſtill deſcending increaſes into
+<pb n="92" facs="tcp:170299:53"/> a river. Now knowing that this ri<g ref="char:EOLhyphen"/>ver is nothing elſe but the mixture of waters flowing from ſuch ſeverall ſprings, although the waters of theſe ſeverall ſprings ſeeme not to differ amongſt themſelves, yet there being a manifeſt difference between the ri<g ref="char:EOLhyphen"/>ver water and that of the ſprings, (the river water being able to bear ſoape and yeſt, whereas the water of any one of theſe ſprings ſeverally is of no uſe either for brewing or waſhing) I muſt neceſſarily con<g ref="char:EOLhyphen"/>clude that the ſprings do alſo differ. If I had not this argument of the river to convince me, I confeſſe, I ſhould think there were ſcarce any difference in the ſeverall waters of all theſe ſprings yet they which doe wholly drink water ſay that they could never yet find the water of any two ſprings in all reſpects alike.</p>
+            <p>Braceletts, or ſuch as phyſitians
+<pb n="93" facs="tcp:170299:53"/> call <hi>periapta,</hi> if they be uſed <hi>loco et jure</hi> they doe performe a manifeſt alteration upon mans body, for we know by experience that camphor included in a nodule and hung about the necks of Children hath cured di<g ref="char:EOLhyphen"/>vers agues in a ſhort time, without any other means whatſoever, the bloodſtone is known by experience to ſtanch bleeding; pyony roots either cure or abate epilepticall fitts, with many others.</p>
+            <p>Many have been cured of lingring and cacheticall diſtempers onely by the change of the aire.</p>
+            <p>They which have hot and coſtive bodies do not excerne by ſeat and urine a third part of what is ingeſted, yet their bodies are not at all increa<g ref="char:EOLhyphen"/>ſed either in weight or bulke.</p>
+            <p>Infectious diſeaſes, which are ſeated cheifly in the ſpirits, are ſooner received by a body that is ſweating, then by the ſame body at on other time</p>
+            <pb n="94" facs="tcp:170299:54"/>
+            <p>Hot bodies are ſooner fluxed by unctions or plaiſters wherein there is mercury, then bodies more tem<g ref="char:EOLhyphen"/>perate.</p>
+            <p>The ſame body ſweating is alſo ſooner fluxed by ſuch like unction or plaiſter then at another time.</p>
+            <p>Salivation is ſtayed, and the mer<g ref="char:EOLhyphen"/>cury carryed out of the body, by ſweating.</p>
+            <p>From theſe obſervations digeſted, and made to conſpire in one there ſeeme unto us to reſult theſe three concluſions.</p>
+            <p>Firſt, there is in mans body a con<g ref="char:EOLhyphen"/>tinuall circulation of ſpirits through the pores, whereby the miaſmes of the aire are received into the body and the excrementitious vapours ex<g ref="char:EOLhyphen"/>pired.</p>
+            <p>Secondly, the pores are of two ſorts, the one kind for expiration, wherein the motion of the ſpirits and vapours is from the baſe to the
+<pb n="95" facs="tcp:170299:54"/> point, and the other for inſpiration, wherein the motion of the returning ſpirits together with the infection of the aire is from the point to the baſe.</p>
+            <p>Thirdly, the pores for inſpiration are valvous, that is, ſo contrived that the ſpirits cannot poſſibly goe out again the ſame way they came in.</p>
+            <p>We meane by ſpirits that vapour or effluvium which, by the naturall heat is raiſed from the ſyncere hu<g ref="char:EOLhyphen"/>mours of the body or from that part of the maſſe of blood which is un<g ref="char:EOLhyphen"/>corrupted, now the ſpirits being an exhalation from the pureſt blood, they are alſo in themſelves pure, and are ſo continued by this regular motion which Nature hath provi<g ref="char:EOLhyphen"/>ded them<g ref="char:punc">▪</g> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> is an aphoriſme recorded by wiſe Hippocrates <hi>Nature cannot remaine
+<pb n="96" facs="tcp:170299:55"/> in the ſame ſtate<g ref="char:punc">▪</g>
+               </hi> there is nothing in the whole world ſtands ſtill if we rightly conſider it. All bodies are either continually acting upon their owne excrement, and ſo moving tow<g ref="char:EOLhyphen"/>ards a higher degree of perfection, or elſe they are ſuffering by ſome excrementitious matter, and decli<g ref="char:EOLhyphen"/>ning towards a ſtate of corruption<g ref="char:punc">▪</g> now whether they act or ſuffer, they have in them a circular motion, which is the only condition by which this action or paſſion is performed<g ref="char:punc">▪</g> as for example. A peece of pure and poliſhed iron, if it be wetted and put into a moiſt aire which is not agree<g ref="char:EOLhyphen"/>able to its nature, will corrupt, and by degrees become more and more corrupted untill the whole body thereof be converted into ruſt. But on the contrary iron that hath con<g ref="char:EOLhyphen"/>tracted ruſt will refine and purifie it ſelfe, if it be oyled and kept in a dry aire<g ref="char:punc">▪</g> the reaſon of this is the
+<pb n="97" facs="tcp:170299:55"/> motion of the ſpirits, which are bound by the law of Nature to keep a juſt correſpondence between the body and the ambient aire.</p>
+            <p>This regular motion of the ſpirits is as the firſt wheele in a clock, or as the <hi>primum mobile</hi> to the lower ſphaeres in the greater world, the ſpi<g ref="char:EOLhyphen"/>rits moving do put the ſecondary ſpirits into a motion of conſent, and the ſecondary ſpirits do move the lighter humours, and ſo at length by a ſubordination of motion the groſ<g ref="char:EOLhyphen"/>ſeſt humours, are conſtrained to move; and the whole body is con<g ref="char:EOLhyphen"/>tinued in and preſerved by this per<g ref="char:EOLhyphen"/>petuall motion<g ref="char:punc">▪</g> hereby the influences of the heavens which wander in the aire are uſhered in the body<g ref="char:punc">▪</g> hereby ſenſation is performed, and a juſt in<g ref="char:EOLhyphen"/>telligence given unto Nature how in each moment the aire doth ſtand affected.</p>
+            <pb n="98" facs="tcp:170299:56"/>
+            <p>We have obſerved that if the head be but moderately heated, the whole body is immediately put in<g ref="char:EOLhyphen"/>to a ſweat: yet if the body be very hot and the head cold, ſweat is not procured.</p>
+            <p>The head, and thoſe parts that are nervous and membranous are moſt prone to ſweat.</p>
+            <p>They which are prone to the epi<g ref="char:EOLhyphen"/>lepſie, convulſions, or any other diſ<g ref="char:EOLhyphen"/>temper proceeding from the obſtruc<g ref="char:EOLhyphen"/>tion of the brain, are not at all proclive to ſweating.</p>
+            <p>They which are ſubject to ſweat much have ſeldome the headach: and ſo on the contrary.</p>
+            <p>Thoſe things which are diapho<g ref="char:EOLhyphen"/>retick, as Guajacum, China, Sarſa<g ref="char:EOLhyphen"/>parilla, have an immediate opera<g ref="char:EOLhyphen"/>tion upon the brain, and are known by experience to have cured invete<g ref="char:EOLhyphen"/>rate paines in the head proceeding from obſtructions, whereas all other
+<pb n="99" facs="tcp:170299:56"/> means have failed.</p>
+            <p>From hence we conclude, that all that matter which is tranſpired, either by ſweat or inſenſibly, is firſt conveighed into the brain, and from thence by the nerves ſcattered into the habit of the body.</p>
+            <p>That which is tranſpired is, in the body, a ſpurious ſpirit, and is regu<g ref="char:EOLhyphen"/>lated by the motion of the ſpirits, paſſing through the ſame channels, although it have no reentrance into the body or motion of returne, it is to the ſpirits as a meteor to the ſtars, which by the ſtarrs is put into a motion of conſent, although to no other end than ſpeedily to be diſſol<g ref="char:EOLhyphen"/>ved or to vaniſh.</p>
+            <p>The ſpirits we conceive to be, in all reſpects, the <hi>primum mobile</hi> of of the microcoſme: which doe move in the largeſt circumference and ut<g ref="char:EOLhyphen"/>moſt orbe of the body, and did firſt begin that motion which is eſſentiall
+<pb n="100" facs="tcp:170299:57"/> to the life of man<g ref="char:punc">▪</g> which whole mo<g ref="char:EOLhyphen"/>tion muſt be firſt accurately explai<g ref="char:EOLhyphen"/>ned, before we can enucleate the order of Nature in tranſpiration or other excretion.</p>
+            <p>We did denominate the ſpirits to be an exhalation from the purer blood: which exhalation is the pro<g ref="char:EOLhyphen"/>duct of heat, and heat the ofspring of motion<g ref="char:punc">▪</g> yet notwithſtanding we conceive that the firſt thing that did move in mans body was the ſpirits. Theſe poſitions doe imply a ſeeming contradiction, for if the ſpirits be the beginners of motion how is it that they doe become the ofsprings thereof at a third remove? I anſwer that the ſpirrits are to be conſidered after a twofold manner<g ref="char:punc">▪</g> they are either innate, ſuch as were the be<g ref="char:EOLhyphen"/>ginners of motion or elſe adventiti<g ref="char:EOLhyphen"/>ous, thoſe that are the continuers or preſervers thereof, the ſpirits which did begin motion in mans body
+<pb n="101" facs="tcp:170299:57"/> were nothing elſe but the ſpirituous part of the ſeed: which from the firſt inſtant of its motion muſt neceſſa<g ref="char:EOLhyphen"/>rily become more and more refined, and ſo by degrees exhale until it be all ſpent<g ref="char:punc">▪</g> the adventitious ſpirits are an exhalation from the pureſt blood which doth make a continual ſupply for the continual expence of the in<g ref="char:EOLhyphen"/>nate ſpirits: that ſo that regular mo<g ref="char:EOLhyphen"/>tion which is eſſential to the life of man may be continued and preſer<g ref="char:EOLhyphen"/>ved. The ſpirits doe continually move in the veins and arteries toge<g ref="char:EOLhyphen"/>ther with the maſſe of blood: yet their proper orbe is from the beginnings of the nerves to all the extremes thereof, as alſo to the whole ſurface of the body. There is a continuation of pores from the brain and ſpinall marrow through all the nerves<g ref="char:punc">▪</g> fibres and membrans of mans body: through which pores there can nothing but ſpirits, or that
+<pb n="102" facs="tcp:170299:58"/> which is transformed into the ſhape of a ſpirit, theſe pores as we ſaid be<g ref="char:EOLhyphen"/>fore, are of two ſorts, through which the ſpirits which are natures intelli<g ref="char:EOLhyphen"/>gencers do paſſe and repaſſe, through the one kind of pores the ſpirits are continually paſſing from the brain, to give intelligence to all parts how the brain doth ſtand affected, where<g ref="char:EOLhyphen"/>by motion is performed, and through the other pores the ſpirits move backwards towards the brain where<g ref="char:EOLhyphen"/>by there is performed ſenſation: we conceive that there are ſeveral de<g ref="char:EOLhyphen"/>grees of ſpirits, <hi>viz.</hi> Finer and groſ<g ref="char:EOLhyphen"/>ſer: and according to thoſe ſeve<g ref="char:EOLhyphen"/>ral degrees we ſuppoſe them to move in a greater or leſſer circuit<g ref="char:punc">▪</g> the groſſeſt ſpirits move onely in the veins and arteries together with the maſſe of blood: thoſe which are finer paſſe through the arteries of the <hi>rete mirabile</hi> into the brain, and from thence are carryed downe by the
+<pb n="103" facs="tcp:170299:58"/> nerves into the habit of the body, and doe return againe by the ſame nerves (although they do paſſe through different pores) into the brain, and then they enter into the veins of the <hi>rete mirabile,</hi> from whence they paſſe towards the heart and are again circulated with the blood: theſe ſpirits which move in the nervous parts, which are pro<g ref="char:EOLhyphen"/>perly called animal ſpirits, are alſo of ſeverall degrees. <hi>viz.</hi> ſome purer and others leſſe pure<g ref="char:punc">▪</g> the pureſt Spi<g ref="char:EOLhyphen"/>rits expatiate themſelves at ſome diſtance from the ſurface of the body<g ref="char:punc">▪</g> thoſe that are leſſe pure move but to the ſurface, &amp; thoſe that are yet groſ<g ref="char:EOLhyphen"/>ſer come not ſo farr; but they doe in the mid way by an <hi>anaſtomoſis</hi> of pores Change their path, and make a more ſpeedy return unto the brain<g ref="char:punc">▪</g> even as in the circular motion of the blood the purer parts thereof are conveighed by the pulſation of the
+<pb n="104" facs="tcp:170299:59"/> heart to the extremities of the arte<g ref="char:EOLhyphen"/>ries, and are received again by the extremities of the veins: but the groſſer parts come not ſo farr, but are lett into the veins by an <hi>anaſto<g ref="char:EOLhyphen"/>moſis,</hi> whereby they do obtain a ſhorter journey to the heart.</p>
+            <p>Here we muſt take notice that the purer part of the pureſt ſpirits doth continually vaniſh into aire, and is continually ſupplyed by that which is in the next degree of purity: ſo that each moment every particle of the ſpirits becomes more and more re<g ref="char:EOLhyphen"/>fined: and hath ſuch a ſucceſſive being that it cannot twice be called the ſame. The humours and ſpirits are in continuall motion, which ren<g ref="char:EOLhyphen"/>ders them obnoxious to continuall alteration.</p>
+            <p>The groſſeſt blood doth continu<g ref="char:EOLhyphen"/>ally become more and more refined: and whereas at firſt it moved no farther than the firſt <hi>anaſtomoſes</hi> or
+<pb n="105" facs="tcp:170299:59"/> openings of the arteries into the veins, it doth afterwards increaſe in its circuit untill at length it move to the utmoſt parts of the body: then is it reſolved into a vapour, to the end it may increaſe and feed the groſſer ſpirits which are in the veins and arteries<g ref="char:punc">▪</g> which ſpirits, by their circular motion, increaſe in purity, untill they move, firſt, out of the veins and arteries into the nervs, ſo farr as the firſt <hi>anaſtomoſis</hi> of the pores, afterwards even to the ſurface of the body, and at length they doe move out from the ſurface, being then in ſuch a degree of purity, that after<g ref="char:EOLhyphen"/>wards by their perpetuall motion they do perpetually loſe themſelves in the aire.</p>
+            <p>Now as the motion of the ſpirits is conformable to their beginning, in<g ref="char:EOLhyphen"/>creaſe, ſtate and declination; even ſo is the motion of that excrementitious matter which is, or ſhould be, tran<g ref="char:EOLhyphen"/>ſpired
+<pb n="106" facs="tcp:170299:60"/> either by ſweat or inſenſibly<g ref="char:punc">▪</g> it is at firſt a vapour raiſed from the impurer parts of the blood: which vapour is afterwards rarified unto ſuch a tenuity that together with the ſpirits it paſſeth out of the veins and arteries into the nerves, when it is in the nerves, being capable of ſeveral degrees of rarity and denſity, it is either tranſpired, or left in the habit of the body, however, the thin<g ref="char:EOLhyphen"/>ner parts thereof are carryed out by an inſenſible tranſpiration.</p>
+            <p>I have obſerved that after the puncture of a nerve in the arme, the whole arme hath been much leſſ<g ref="char:EOLhyphen"/>ened.</p>
+            <p>Many w<hi rend="sup">ch</hi> have received ſome hurt in the <hi>os ſacrum</hi> have had an extenu<g ref="char:EOLhyphen"/>ation of their thigh and legg of that ſide wherein they received the hurt.</p>
+            <p>They which doe loſe the uſe of any part, have alſo an abatement of
+<pb n="107" facs="tcp:170299:60"/> fleſh in the ſame part.</p>
+            <p>They which are much prone to ſweating do neither pinguefie nor increaſe in fleſh.</p>
+            <p>In conſumptive bodies where there is an abatement of fleſh, there is a more then ordinary tranſpiration.</p>
+            <p>From hence we conclude that the nerves are the immediate organs of nutrition: that is, that part of the blood which ſerves for nutriment is carryed by the nerves into the habit of the body.</p>
+            <p>The veines and arteries are the elaboratory of the whole body, or the preparatory veſſels wherein the humours are made fit for Natures uſe: the brain is the firſt receptacle of the humours ſo prepared: and the nerves are thoſe organs through which they are conveighed unto all the parts<g ref="char:punc">▪</g> there is nothing in the veins and arteries, except that which the gall and ſpleen do receive, which
+<pb n="108" facs="tcp:170299:61"/> is not tranſported unto the ſeverall parts by the nerves, and before it can be received by the nerves it muſt ne<g ref="char:EOLhyphen"/>ceſſarily be reſolved into a vapour, this vapour is multiforme anſwera<g ref="char:EOLhyphen"/>ble to the heterogeneity of the hu<g ref="char:EOLhyphen"/>mours, the ſeverall parts whereof it will be too tedious to proſecute: yet by a more generall diviſion, for our preſent purpoſe, we may divide it into three parts, which three parts, conſidered as well jointly as ſever<g ref="char:EOLhyphen"/>rally, may perhaps bring us unto the knowledge of Nature in all her act<g ref="char:EOLhyphen"/>ions. One part hereof is excremen<g ref="char:EOLhyphen"/>titious, another part nutritive, and a third part ſpirituous<g ref="char:punc">▪</g> that which nouriſheth is of a middle nature be<g ref="char:EOLhyphen"/>tween the ſpirits and excrementitious vapours<g ref="char:punc">▪</g> it agrees with the ſpirits in its equality of parts, which makes it leſſe capable of being excerned: and it is like to the excrementitious va<g ref="char:EOLhyphen"/>pours in its aptitude to condenſe: thus
+<pb n="109" facs="tcp:170299:61"/> by an equall participation of both natures it hath a propriety of its owne, <hi>viz.</hi> aſſimilation. The ſpirits, in their motion towards the external parts, by acting upon the excrementitious vapours doe in ſome ſort ſuffer, and are precipitated or embodyed with the ſaid va<g ref="char:EOLhyphen"/>pours, whereby there is begotten a third which doth participate, as I ſaid, of both natures<g ref="char:punc">▪</g> the moſt ſound and tenacious nutriment is a mixture of the groſſer ſpirits, and moſt ſyn<g ref="char:EOLhyphen"/>cere part of that which is excremen<g ref="char:EOLhyphen"/>titious<g ref="char:punc">▪</g> and on the contrary that nutriment which is moſt volatile or conſumptive is the fineſt ſpirits in<g ref="char:EOLhyphen"/>terr'd in the impureſt excrements. Hence it is that ſo great a quantity of this falſe nutriment is ſo ſpeedily congeſted, and again ſo ſuddenly diſſolved<g ref="char:punc">▪</g> for when the nerves are ſo oppreſſed and loaded with excre<g ref="char:EOLhyphen"/>mentitious vopours, that even the
+<pb n="110" facs="tcp:170299:62"/> pureſt ſpirits are clowded therewith; needs muſt theſe vapours which can<g ref="char:EOLhyphen"/>not be tranſpired ſettle themſelves in the habit of the body, and increaſe into a conſiderable bulke in no con<g ref="char:EOLhyphen"/>ſiderable time: and afterwards it muſt as ſuddenly waſt by reaſon of the diſproportionable mixture where<g ref="char:EOLhyphen"/>of its nutriment doth conſiſt. The ſpirits, being too fine to continue fix'd, do in a ſhort time fly away, whereupon the condenſed vapours which were underpropped thereby, can no longer ſubſiſt, but doe putre<g ref="char:EOLhyphen"/>fie and diſſolve, and do alſo by mo<g ref="char:EOLhyphen"/>tion of conſent bring the moſt ſolid nutriment into a ſtate of diſſolution.</p>
+            <p>There is much difference between the fleſh of the ſame body in its infan<g ref="char:EOLhyphen"/>cy &amp; afterwards when it is grown up.</p>
+            <p>The fleſh of the ſame body al<g ref="char:EOLhyphen"/>though it be nouriſhed with the ſame diet hath oftentimes a manifeſt
+<pb n="111" facs="tcp:170299:62"/> change in a ſhort time onely by the alteration of the aire.</p>
+            <p>They whoſe fleſh is moſt ſolid, cloſe, and compact are not ſo apt to feed, as others whoſe conſtitution is more weake, and their fleſh of a more Spongious and looſe tempe<g ref="char:EOLhyphen"/>rament.</p>
+            <p>Eunuchs and ſuch as do ſeldome uſe the act of <hi>Venus</hi> are moſt apt to pinguefy<g ref="char:punc">▪</g> and we have obſerved in ſeveral creatures that onely upon the the loſſe of a teſticle they have ſud<g ref="char:EOLhyphen"/>denly grown fat.</p>
+            <p>Theſe obſervations do give us oc<g ref="char:EOLhyphen"/>caſion to doubt whether or no there be any <hi>aſſimilatrix</hi> in each part to make that nutriment which it receivs like unto it ſelf. It ſeemes unto us that the ſpirits and humours do ra<g ref="char:EOLhyphen"/>ther act upon the parts, then the parts upon them: otherwiſe the parts would not be ſo conformable to the alteration of aire and diet, but
+<pb n="112" facs="tcp:170299:63"/> ſhould keep conſtantly the ſame temperament<g ref="char:punc">▪</g> how is it then that the whole body is not confuſedly nou<g ref="char:EOLhyphen"/>riſhed, but every part and particle thereof doth receive nutriment ac<g ref="char:EOLhyphen"/>cording to its own kind? I anſwer that the ſpirits which are the cheife inſtruments of nutrition, which are as multiforme as are the humours and parts, although they doe meet altogether in the brain yet after<g ref="char:EOLhyphen"/>wards they are divided, in their paſſage towards the ſeverall parts, and as they doe divide they doe take along with them ſuch parts of the excrementitious vapours as are moſt agreeable to their particular natures<g ref="char:punc">▪</g> ſo that by virtue of that action and paſſion which is betwixt the vapours and ſpirits as they are moving in their proper orbes, there is ſuch nutriment made as is ſutable to each part; w<hi rend="sup">ch</hi> nutriment as it is <hi>in fieri,</hi> is moving towards its centre,
+<pb n="113" facs="tcp:170299:63"/> wherein, being compleated, or <hi>in facto eſſe,</hi> it doth acquieſſe.</p>
+            <p>Doubtleſſe there is the ſame rea<g ref="char:EOLhyphen"/>ſon in a kernell for its firſt expanſion into parts, as afterwards for the growth thereof: and at length being grown to a great tree it hath the ſame principle for the continuation of its bulke, as it had for its firſt growth. In like manner we conceive it moſt probable that the ſame in<g ref="char:EOLhyphen"/>ternal principle which did at firſt form the parts, and did make the firſt fleſh in mans body, doth make an addition thereto: and not that the body is made by one prin<g ref="char:EOLhyphen"/>ciple, and preſerv'd by another. If the more ſpirituous part of the ſeed, being cheriſhed by the warmth of the wombe could at firſt, by mo<g ref="char:EOLhyphen"/>ving in a figure agreeable to its Na<g ref="char:EOLhyphen"/>ture, make it ſelf a habitation to dwell in: it may as well be thought to increaſe this habitation, and con<g ref="char:EOLhyphen"/>tinually
+<pb n="114" facs="tcp:170299:64"/> continually to repaire it being in<g ref="char:EOLhyphen"/>creaſed.</p>
+            <p>Theſe tenets which we have deli<g ref="char:EOLhyphen"/>vered looke not aſquint nor thwart one another, but they are ſo harmo<g ref="char:EOLhyphen"/>nious in themſelves, and do ſo agree with all manner of experiments of what kind ſoever, that we muſt ne<g ref="char:EOLhyphen"/>ceſſarily make nature a monſter if we deny them, but on the contrary paint her to the life in the acknow<g ref="char:EOLhyphen"/>ledgment thereof. According to theſe <hi>Hypotheſes</hi> we will firſt recapitulate the oeconomy of Nature in mans body, beginning with him before he had a being, and ſo by degrees bring him on to his Journeys end: then afterwards we will conſider whe<g ref="char:EOLhyphen"/>ther all operations of externall things upon mans body be not involved in this oeconomy.</p>
+            <p>To omitt much which may be ſpoken concerning the harmony of the
+<pb n="115" facs="tcp:170299:64"/> well tun'd Spirits in healthfull bo<g ref="char:EOLhyphen"/>dies of conſiſtent yeares: how the ſpirits moving from the ſurface of the body, bring pleaſant objects in<g ref="char:EOLhyphen"/>to the brain, which do ſo delight the fantaſy, that ſhe is unwilling to diſ<g ref="char:EOLhyphen"/>miſſe them into the ſtorehouſe of memory, but is eager to give them preſent entertainment<g ref="char:punc">▪</g> how the fan<g ref="char:EOLhyphen"/>taſy by hovering upon ſuch pleaſant objects muſt neceſſarily arreſt the ſpirits which are the ſupporters there<g ref="char:EOLhyphen"/>of: and how the ſpirits, which can no longer be then move by delay are condenſed. I ſay, to omit much which may be ſpoken concerning the firſt originall of ſeed, I conceive it will be ſufficient for our preſent purpoſe to begin with the ſeed ready made, which is the firſt original of man.</p>
+            <p>The ſeed is nothing elſe but con<g ref="char:EOLhyphen"/>denſed ſpirits: as may appeare by its tenacity and equality of parts<g ref="char:punc">▪</g> herein we muſt take notice of ſuch
+<pb n="116" facs="tcp:170299:65"/> a mediocrity of condenſation, that the major part is apt to be brought back again to its own nature, and be continued therein; provided it have ſuch circumſtances as are required for the effecting hereof: that is, ſuch a degree of heat as the ſpirits alwaies had, and ſuch matter annex'd unto it<g ref="char:punc">▪</g> hereby the purer part of the ſeed may not only be reſolved into their firſt principles, <hi>viz.</hi> into ſpirits, but alſo this matter may be reſolved into a vapour, which the ſpirits may re<g ref="char:EOLhyphen"/>ceive for their nutriment. Now theſe conditions are to be found in a well conſtituted wombe; into which the ſeed being injected is formed into parts after this following man<g ref="char:EOLhyphen"/>ner.</p>
+            <p>The purer part of the ſeed, which is included in the centre, is at firſt rarefied into a groſſe ſpirit, which hath a ſlow motion in a narrow or be proportionable to its groſſe conſiſ<g ref="char:EOLhyphen"/>tence:
+<pb n="117" facs="tcp:170299:65"/> but afterwards, as by degrees it doth revive and put on its owne nature by being more and more ra<g ref="char:EOLhyphen"/>rifyed it doth move quicker and in a larger circuit. Now as the ſpirits by condenſation doe ceaſe to move, and by rarefaction doe recruit in their motion; even ſo by their return unto their own nature they doe ob<g ref="char:EOLhyphen"/>tain the ſame motion which they had before condenſation<g ref="char:punc">▪</g> the ſpirits revived in the ſeed do not only re<g ref="char:EOLhyphen"/>gain their motion, but alſo ſuch mo<g ref="char:EOLhyphen"/>tion as they had in the body of man<g ref="char:punc">▪</g> they move in the ſame figure in the ſeed as they did in the body: ſo that by granting the ſpirits a motion a<g ref="char:EOLhyphen"/>greeable to their owne nature, we have the parts carved out unto our intellect, which we may eaſily con<g ref="char:EOLhyphen"/>ceive to be but the footſteps of the ſpirits.</p>
+            <p>That particle from whence the ſpirits doe firſt move and unto which
+<pb n="118" facs="tcp:170299:66"/> they do returne, is afterwards the heart<g ref="char:punc">▪</g> their firſt footſteps are the greater veins and arteries: having at firſt a regular motion in the ſeed analogicall to that of the groſſer hu<g ref="char:EOLhyphen"/>mours in mans body, that is, from the heart to the firſt <hi>anaſtomoſes</hi> of the veins and arteries<g ref="char:punc">▪</g> from thence by degrees they tread farther, untill at length they have compleated their double path for the humours to walk in, and have finiſhed the whole <hi>ſeries</hi> of the veins and arteries<g ref="char:punc">▪</g> after that the purer parts of the ſpirits do carve out the <hi>menynges</hi> of the brain, and by a farther progreſſe of their naturall motion they doe make the nerves, and then do run diviſions thereupon, dividing them into fibres, and dilating them into membrans.</p>
+            <p>After this manner is the firſt foun<g ref="char:EOLhyphen"/>dation of mans body laid: and then as theſe ſpermatick parts do increaſe in bulk, they have added unto them
+<pb n="119" facs="tcp:170299:66"/> ſuch appurtenances as are ſuitable to their ſeverall natures: the veins and arteries of the <hi>Embryon,</hi> as by de<g ref="char:EOLhyphen"/>grees they do become more capaci<g ref="char:EOLhyphen"/>ous, do receive by the umbilicall vein the purer parts of the mothers blood, and then the groſſer: where<g ref="char:EOLhyphen"/>as at firſt the ſpirits by their motion drew into conſent nothing elſe but an exhalation from the mothers ſeed. And as by degrees the veins and ar<g ref="char:EOLhyphen"/>teries are filled with blood: even ſo are the fibres of the muſcles cloathed with fleſh by virtue of the ſaid blood in the veins and arteries, which is firſt rarefied and made to put on the nature of a ſpirit, and is carryed a<g ref="char:EOLhyphen"/>long with the ſpirits through the nerves, and afterwards amongſt the fibres of the muſcles is recondenſed<g ref="char:punc">▪</g> in the meane time the purer parts of the ſpirits are together with ſome excrementitious vapours coagulated into marrow in the centre of all the
+<pb n="120" facs="tcp:170299:67"/> parts throughout the whole body: the more ſpernatick part whereof is afterwards ſecerned from that which is more excrementitious, and, by de<g ref="char:EOLhyphen"/>grees, by the heat of the body is oſſiated. In this <hi>Coagulum</hi> of ſpirits and vapours we include all kinde of medulloſſity, as the ſpinall marrow, and the ſubſtance of the brain.</p>
+            <p>Such parts onely of the maſſe of blood are carryed into the nerves as are capable of being rarefied to the conſiſtence of ſpirits: but thoſe parts which are of a different nature, and are too much fixed or curdled, are coagulated in their diſtinct pla<g ref="char:EOLhyphen"/>ces, according to their peculiar dif<g ref="char:EOLhyphen"/>ferences, in the right and left ſide: and do make up the liver and the ſpleen<g ref="char:punc">▪</g> the liver was by the an<g ref="char:EOLhyphen"/>cients thought to be the only organ of ſanguification<g ref="char:punc">▪</g> and <hi>Fernelius</hi> at<g ref="char:EOLhyphen"/>tributed the like office unto the ſpleen, upon conſideration of that
+<pb n="121" facs="tcp:170299:67"/> multiplicity of veins and arteries which are diſſeminated throughout the whole body thereof. But theſe opinions are now exploded by all ſince the diſcovery of the circular motion of the blood. Doubtleſſe the ſpleen as the Ancients held, is the re<g ref="char:EOLhyphen"/>ceptacle of the more groſſe and me<g ref="char:EOLhyphen"/>lancholick blood; by virtue whereof the maſſe of humours are purified from their feculencies. It is our opini<g ref="char:EOLhyphen"/>on that not onely the ſpleen, but alſo the liver hath no other office than to purifie the blood, by taking into it ſuch parts, as if, they were in the veins and arteries, would fix the blood too much and by conſequence prevent nutrition. For we have ob<g ref="char:EOLhyphen"/>ſerved in an <hi>Atrophia,</hi> and in any manner of cachecticall diſtemper that alwaies either the liver or ſpleen, or elſe both are obſtructed: and up<g ref="char:EOLhyphen"/>on the opening of ſuch like ob<g ref="char:EOLhyphen"/>ſtructions nutrition is again per<g ref="char:EOLhyphen"/>formed,
+<pb n="122" facs="tcp:170299:68"/> and the body returneth to its naturall temperament. We have likewiſe obſerved in thoſe bodyes of children that we have diſſected, which have languiſhed a long time, and at length dyed of an atrophie, that the liver hath been full of ſcir<g ref="char:EOLhyphen"/>rhous tubercles, and very ſmall: the reaſon of this we conceive to be be<g ref="char:EOLhyphen"/>cauſe thoſe parts of the maſſe of blood which ſhould have been ſepa<g ref="char:EOLhyphen"/>rated and left congeſted upon the liver were kept moving ſtill in the veins &amp; arteries, by reaſon of thoſe ſcir<g ref="char:EOLhyphen"/>rhous tubercles which did obſtruct thoſe narrow paſſages of the liver through which the blood ſhould have been ſtrained: whereas if it had been ſtrained thoſe parts ſhould have been left behind in the <hi>Paren<g ref="char:EOLhyphen"/>chyma</hi> of the liver which is their proper centre.</p>
+            <p>And ſo it is with the ſpleen: when its tranſcolatory office is by
+<pb n="123" facs="tcp:170299:68"/> any means prevented, the humours have an unjuſt conſiſtence and are not ſo apt to be rarefyed, whereupon nutrition cannot be ſo well per<g ref="char:EOLhyphen"/>formed.</p>
+            <p>If ſanguification had been the office of the liver, <hi>Fernelius</hi> had done well in attributing the ſame to the ſpleen: for they do both alike conſiſt of al<g ref="char:EOLhyphen"/>moſt infinite ſmall veins and arteries interwoven with their <hi>Parenchyma:</hi> but if the office of all theſe ſmall veins and arteries in the liver be to ſtrain the blood, we muſt allow the ſame office to the ſpleen: yet the veins and arteries of the liver are ſomewhat ſmaller then thoſe of the ſpleen<g ref="char:punc">▪</g> the reaſon is, becauſe it is re<g ref="char:EOLhyphen"/>quired that the blood of children, which is ſtrained chiefly by the liver, ſhould be ſomewhat thinner then that of thoſe which are grown up, which is percolated by the ſpleen, for as we affirme that the ſpirits by their
+<pb n="124" facs="tcp:170299:69"/> firſt motion do bore the veins and arteries, and doe move alone there<g ref="char:EOLhyphen"/>in untill ſuch time as the veins and arteries are capacious enough to re<g ref="char:EOLhyphen"/>ceive the mothers blood: ſo it is required that the blood which firſt enters into the veins and arteries be almoſt as thin as ſpirits, by rea<g ref="char:EOLhyphen"/>ſon of their ſlenderneſſe, and after<g ref="char:EOLhyphen"/>wards that it have ſuch a conſiſtence as ſhall be agreeable to the ſmalneſs or largneſſe of the veſſels. So that the blood of children is ſo much purer than that of thoſe that are grown up, by how much their veins and arteries are ſmaller. And that it may be continued ſo, the liver, as I ſaid, hath veins and arteries ſome<g ref="char:EOLhyphen"/>what ſmaller then the ſpleen, that being the chief percolatory of chil<g ref="char:EOLhyphen"/>drens blood, and this of thoſe that are old. Thoſe that are of middle age have their liver and ſpleen alike proportionable to their bodies, and
+<pb n="125" facs="tcp:170299:69"/> doubtleſſe they doe their offices alike: but children have large livers and very little ſpleen, and on the contrary old men have their liver ſomewhat waſted, and their ſpleen much inlarged.</p>
+            <p>The <hi>Embryon,</hi> having all its parts finiſhed, and the whole clock-work of nature compleated, doth ſtruggle in its determinated time, to get out of the wombe, as from too narrow an incloſure, and is ex<g ref="char:EOLhyphen"/>truded by the mothers body as too great a burthen.</p>
+            <p>No ſooner is the inf<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt born, but the lungs are ſet on work, and the <hi>Diaphragma</hi> made capable to con<g ref="char:EOLhyphen"/>ſpire with the muſcles of the <hi>Abdo<g ref="char:EOLhyphen"/>men</hi> for the excretion of ſome excre<g ref="char:EOLhyphen"/>mentitious matter, which before could be carried no farther then into the inteſtines. The ſerous part of the blood is alſo now evacuated through the urinatory paſſages,
+<pb n="126" facs="tcp:170299:70"/> whereas before it was tranſpired, and left in the ſecondine, to poliſh the skin, as alſo to extend and burſt the ſecondine, and make it ſlippery for the better extruſion of the infant, now the head by degrees comes in<g ref="char:EOLhyphen"/>to ſhape, whereas before it was diſproportionable to the body. Here we cannot but admire the great wiſdome and providence of Nature in throwing out the ſeroſity of the blood by tranſpiration whilſt the <hi>Embryon</hi> is in the wombe, that there<g ref="char:EOLhyphen"/>by the groſſer parts thereof may be coagulated with ſome ſpirits within the <hi>menynges</hi> to make up the ſub<g ref="char:EOLhyphen"/>ſtance of the brain, whoſe office is to fix the ſpirits, for ſeverall uſes, of which we ſhall ſpeake hereafter; and afterwards in expelling the ſaid ſe<g ref="char:EOLhyphen"/>rous parts through other more open paſſages, leaſt the brain ſhould be too bigg, the ſpirits too much fix'd, and the infant borne become lethar<g ref="char:EOLhyphen"/>gicall</p>
+            <pb n="127" facs="tcp:170299:70"/>
+            <p>Nature willing to continue what ſhe hath produced, and deſirous to preſerve what ſhe hath made, hath provided the infant borne ſuch a diet as is ſpirituous <hi>viz.</hi> its mothers milke: which being received into its body warme from its mothers breaſt, doth very much ſupport and ſtreng<g ref="char:EOLhyphen"/>then the firſt foundation of its body, the ſpirits, and doth nouriſh and increaſe the ſpermatick parts which are the main architecture upon this foundation<g ref="char:punc">▪</g> yet children, as by de<g ref="char:EOLhyphen"/>grees they do grow up, and get ſtrength, are afterwards nouriſhed as well with other diet as they were before with milke: although by how much the body is more increa<g ref="char:EOLhyphen"/>ſed in bulke, by ſo much the greater quantity of ſpirits is required for nu<g ref="char:EOLhyphen"/>trition thereof. Here we muſt know that as the body becomes ſtronger, there are ſpirits extracted by the Chymiſtry of Nature out of that diet
+<pb n="128" facs="tcp:170299:71"/> which is leſſe Spirituous, or at leaſt hath its ſpirits lock'd cloſer up in its parts.</p>
+            <p>As the ſpirits are the only ingre<g ref="char:EOLhyphen"/>dients which doe enter the compo<g ref="char:EOLhyphen"/>ſition of ſperme, ſo are they the nouriſhers and augmenters of the ſpermatick parts: yet as the ſpirits are inſufficient to make ſeed except they be condenſed, even ſo are they incapable to nouriſh and increaſe the ſpermatick parts, except they be firſt tuned and fixed by a well con<g ref="char:EOLhyphen"/>ſtituted brain. Hence it is that both children and thoſe that are grown up doe oftentimes pine away and languiſh, not for want of ſpirits or other nutriment; but by reaſon of the evill conſtitution of their brain: which being rectified by ſhaving the haire, and application of corro<g ref="char:EOLhyphen"/>borating emplaiſters, they do regain their fleſh, and are nouriſhed as well as ever. Although the fleſh receive
+<pb n="129" facs="tcp:170299:71"/> not its nutriment wholly from the ſpirits, yet they are the chief inſtru<g ref="char:EOLhyphen"/>ments of its nutrition: which do qua<g ref="char:EOLhyphen"/>lifie the nutritive part of the blood, and are themſelves qualifyed by the brain. Now the chief office of the brain is, as I ſaid, to fix the ſpirits for ſeverall uſes: and firſt, that they ſhould not be too much diſperſed, ſecondly for nutrition and auction of the parts, thirdly for the making of ſeed, and fourthly for ratiocina<g ref="char:EOLhyphen"/>tion. Here we doe not conceive that the brain doth primarily act upon the ſpirits; for we think it would be abſurd to aſcribe action to any part which is not in motion, and paſſion to the ſpirits which doe continually move: but we ſuppoſe that the ſpirits by acting upon the brain do acciden<g ref="char:EOLhyphen"/>tally ſuffer and become more fix'd.</p>
+            <p>As the ſpirits are alwaies paſſing through the brain which is in the mid-way of their journey back<g ref="char:EOLhyphen"/>wards
+<pb n="130" facs="tcp:170299:72"/> and forwards betwixt the veins and arteries and the nerves, ſo part of them doe alwaies ſuffer condenſation from the time they doe begin to move until their motion ceaſe: that is, from the firſt original of man until he die. And as there is a continual fixation of ſpirits, ſo there is a continuall expence and a continuall increaſe thereof, although ſometimes the expence is greater then the increaſe, and on the contra<g ref="char:EOLhyphen"/>ry, thoſe ſpirits which are fixed, are not afterwards loſt by tranſpi<g ref="char:EOLhyphen"/>ration, but they doe either nouriſh and increaſe the ſpermatick parts for preſervation of the <hi>individuum</hi> as in thoſe of under yeares, or elſe they are converted into ſeed for propa<g ref="char:EOLhyphen"/>gation of the <hi>ſpecies</hi> as in thoſe of conſiſtent age. In moſt old men, whoſe brain is of a dryer conſtitu<g ref="char:EOLhyphen"/>tion, there is a leſſe quantity of ſpirits condenſed, perhaps ſo much as is
+<pb n="131" facs="tcp:170299:72"/> ſufficient onely for nutrition of the ſpermatick parts, but no ſuperfluity for ſeed: and in thoſe aged men whoſe brain is ſo well conſtituted as to prepare more nutriment then is required for the ſpermatick parts, it is either left in the brain (the ſe<g ref="char:EOLhyphen"/>minary veſſels being cloſed by rea<g ref="char:EOLhyphen"/>ſon of diſſuetude) and ſo doth cauſe a great ſwimming and diſyneſs in the head: or elſe it is carryed tow<g ref="char:EOLhyphen"/>ards the ſpermatick parts which have no need thereof, and there doth putrefie and corrupt, which doth produce aches and pains in ſeveral parts of the body.</p>
+            <p>
+               <hi>How ratiocination is performed by the condenſation or fixation of the ſpirits it may appeare as followeth.</hi>
+            </p>
+            <p>As ſenſation is performed by the motion of the ſpirits from the ex<g ref="char:EOLhyphen"/>treme parts, which doe carry their
+<pb n="132" facs="tcp:170299:73"/> reſpective objects into the brain, ſo is raciocination by the retention of the ſaid objects: that is, by the memory of ſuch-like ſenſible per<g ref="char:EOLhyphen"/>ception, as we ſaid before that the notion of ſounds or colours is no<g ref="char:EOLhyphen"/>thing elſe but the remembrance of ſuch things ſeen or heard. Now theſe objects are retained, or this ſenſible perception is remembred by the fixation of thoſe ſpirits wherein the ſaid objects do abide. So that as the ſpirits are fixed and continued in the ſubſtance of the brain, even ſo are the objects treaſured up toge<g ref="char:EOLhyphen"/>ther with the ſpirits: the compari<g ref="char:EOLhyphen"/>ſon of which paſt objects with others that are preſent or to come is called ratiocination.</p>
+            <p>The ſpirits, being pure of them<g ref="char:EOLhyphen"/>ſelves, would by their continuall motion be ſo attenuated that they could not be contained in the body, if they had not a refrigeratory, <hi>the
+<pb n="133" facs="tcp:170299:73"/> brain,</hi> to contemper and allay them: by virtue hereof the ſenſories are ſhut up, and ſleep is cauſed, that there may be a reparation made for thoſe ſpirits which were loſt while the ſenſories were open. Whereas, notwithſtanding the coldneſſe of the brain, ſome ſpirits doe continually loſe themſelves in the aire; it is out of the great providence of Nature, that thereby they may make the aire a fit medium betwixt the ſence and the object. So we ſee the ſpirits for ſmelling do diſperſe themſelves in the aire indifferently, but the viſive ſpirits are not ſcattered except in the illuminated aire.</p>
+            <p>It will be too tedious to diſcourſe at large how the object, by how much it is more pleaſant, by ſo much it doth the more entice out the ſpirits and how the exerciſe of the ſeveral ſenſes upon pleaſant objects doth become hypnoticall. It is ſufficient to
+<pb n="134" facs="tcp:170299:74"/> know that as the ſpirits were the firſt movers in mans body, upon whoſe motion all other natural actions do depend, even ſo all acti<g ref="char:EOLhyphen"/>ons ceaſe, when the ſpirits ceaſe to move. And as life doth commence by the motion of the ſpirits, even ſo the ceſſation of this motion is the next and immediate cauſe of death: whether it be by ſolution of conti<g ref="char:EOLhyphen"/>nuity in ſome principal organ where<g ref="char:EOLhyphen"/>by the ſpirits are made incapable of keeping their circuit, or by ſome mercuriall vapour which doth ſud<g ref="char:EOLhyphen"/>denly or by degrees intercept their motion, or elſe by ſomething which is ſtupefying that doth ſuddenly thicken them: I ſay by what acci<g ref="char:EOLhyphen"/>dent ſoever the motion of the ſpirits is ſtaid death muſt neceſſarily enſue thereupon. And no man ever yet dyed either a natural death, or by any accident whatſoever, but the next and immediate cauſe of his
+<pb n="135" facs="tcp:170299:74"/> death was the ceſſation of the mo<g ref="char:EOLhyphen"/>tion of his ſpirits.</p>
+            <p>We call that a naturall death when the ſpirits are not violently in<g ref="char:EOLhyphen"/>tercepted or diſcontinued: but as by degrees they are thickned and have a ſlower motion, as is evident by the ſlowneſſe of the pulſe, dim<g ref="char:EOLhyphen"/>neſſe of light, thickneſſe of hearing, coldneſſe of the body <hi>&amp;c.</hi> ſo in proceſſe of time they are wholly ſtaid, although nothing violent doth happen unto them.</p>
+            <p>Thus we ſee that both the be<g ref="char:EOLhyphen"/>ginning, increaſe, ſtate, and decli<g ref="char:EOLhyphen"/>nation of mans life doth depend wholly upon the motion of the ſpi<g ref="char:EOLhyphen"/>rits: as alſo all circumſtances con<g ref="char:EOLhyphen"/>tained in the ſaid beginning, increaſe, ſtate and declination. As nutrition, auction, excretion, voluntary motion, ſenſe, ratiocination, and whatſoever elſe is comprehended under theſe. And as the ſpirits do governe the
+<pb n="136" facs="tcp:170299:75"/> body within it ſelfe, ſo by the me<g ref="char:EOLhyphen"/>diation thereof all things elſe doe operate upon the body: not onely that which nouriſheth and increa<g ref="char:EOLhyphen"/>ſeth, but whatſoever purgeth, vomi<g ref="char:EOLhyphen"/>teth, procureth ſweat <hi>&amp;c.</hi> hath its qualities firſt received by the ſpirits, and from thence communicated to the humours or parts according to the particular natures of ſuch like qualities.</p>
+            <p>
+               <hi>Aloes</hi> and <hi>Colocynth</hi> taken in<g ref="char:EOLhyphen"/>wardly, purge the body, and ſo they do by outward application. <hi>Terpen<g ref="char:EOLhyphen"/>tine</hi> taken inwardly provoketh urine, and emplaiſters of terpentine applyed to the back and belly do the like. Emplaiſters of <hi>Ammoni<g ref="char:EOLhyphen"/>acum</hi> diſſolve and mollifie ſcirrhous tumours, no otherwiſe than <hi>Am<g ref="char:EOLhyphen"/>moniacum</hi> taken inwardly doth diſ<g ref="char:EOLhyphen"/>ſolve ſcirroſities of the liver and ſpleen. <hi>Lapis haematites, dragons blood,</hi> bole <hi>&amp;c.</hi> ſtop a flux whether
+<pb n="137" facs="tcp:170299:75"/> inwardly exhibited or outwardly applyed. <hi>Quickſilver</hi> taken inward<g ref="char:EOLhyphen"/>ly procureth ſalivation: and ſo it doth by outward application. Pills and plaiſters of <hi>Aſa Faetida</hi> are both good againſt the riſing of the wombe. Unctions of <hi>Brimſtone</hi> cure the itch; and ſo doth Brimſtone ta<g ref="char:EOLhyphen"/>ken inwardly. In a word, all things whatſoever have their operation a<g ref="char:EOLhyphen"/>like upon the body whether they be uſed inwardly or outwardly. But this could not be, if the operation of thoſe things which doe alter the body was not performed by the immediate act of the ſpirits, neither could the ſpirits ſo act, if they had not both a circular motion betwixt the centre and the ſurface, whereby they do keepe a correſpondence be<g ref="char:EOLhyphen"/>tween all the diverſity of parts of the body and did not alſo expati<g ref="char:EOLhyphen"/>ate themſelves at ſome ſmall diſtance from the ſurface whereby they doe
+<pb n="138" facs="tcp:170299:76"/> take into the body the infection of the aire. There is nothing whatſo<g ref="char:EOLhyphen"/>ever which is not continually ſpen<g ref="char:EOLhyphen"/>ding its ſpirits in the aire, as is demon<g ref="char:EOLhyphen"/>ſtrable in all things, which are ſub<g ref="char:EOLhyphen"/>ject to wax old, I meane not onely living creatures in the courſe of their life, but even vegetables, and the parts of living creatures<g ref="char:punc">▪</g> which we call druggs, unto which we aſcribe ſeveral virtues. Let them be kept never ſo choicely, yet they will in time decay, and loſe the ſaid virtues which we aſcribe unto them, the reaſon is becauſe they doe ſubſiſt, and preſerve themſelves, that time they do continue, by this expence of their virtues, that is, their ſpirits in the aire; otherwiſe they ſhould ſud<g ref="char:EOLhyphen"/>denly be corrupted. And if they be ſo attenuated that they may be, and are taken into the body of man, or if they be contiguous to his body they doe the like. Now the ſpirits
+<pb n="139" facs="tcp:170299:76"/> of mans body, as they are alwaies moving out and returning into the body, they doe continually lay hold on that which they find in the aire to be moſt agreeable to their owne nature, that is ſomething which is moſt ſpirituous, and doe carry it into the body<g ref="char:punc">▪</g> and whatſoever they find in the ſtomack and guts of a ſpiri<g ref="char:EOLhyphen"/>tuous nature they do likewiſe carry it into the more inward parts <hi>viz.</hi> into the veins and arteries: <hi>and af<g ref="char:EOLhyphen"/>terwards perhaps into the nerves<g ref="char:punc">▪</g>
+               </hi> ſo that whenſoever any medicament, whether drug or compoſition, hap<g ref="char:EOLhyphen"/>peneth within the reach of the ſpi<g ref="char:EOLhyphen"/>rits, the body is thereby altered: and ſo much the more by how much the parts of the ſaid medicament are ſe<g ref="char:EOLhyphen"/>parated, becauſe thereby its atomes are more ſpeedily ſcattered. Here we muſt know that the medicine: acts not primarily upon the ſpirits, but the ſpirits upon the medicine<g ref="char:punc">▪</g>
+               <pb n="140" facs="tcp:170299:77"/> although afterwards they do acci<g ref="char:EOLhyphen"/>dentally ſuffer<g ref="char:punc">▪</g> hence it is that em<g ref="char:EOLhyphen"/>plaſters do performe no alteration upon a mortifyed part: neither do external things act at ſuch a di<g ref="char:EOLhyphen"/>ſtance, whereunto the ſpirits of the body cannot come to lay hold upon the ſpirits, atomes, or qualities thereof.</p>
+            <p>I could make a cloſer illuſtration of the ſpirits of the body acting up<g ref="char:EOLhyphen"/>on the ſpirits of the medicament by almoſt infinite of examples, but for brevities ſake I ſhall propound two or three.</p>
+            <p>Let any one ſwallow ten or twelve ſeeds of coloquintida whole: he ſhall have the ſeeds again in his ex<g ref="char:EOLhyphen"/>crements, yet notwithſtanding his body ſhall be purged, this is a ſuf<g ref="char:EOLhyphen"/>ficient argument to convince any one that it is the ſpirits of the medi<g ref="char:EOLhyphen"/>cine that purgeth.</p>
+            <p>Let the ſeeds of coloquintida be
+<pb n="141" facs="tcp:170299:77"/> powdered and mixed with honey, and then ſpread upon leather and applyed to the belly: and this alſo purgeth, this is another cogent ar<g ref="char:EOLhyphen"/>gument to demonſtrate that as the ſpirits of medicaments do operate, even ſo they are carryed by the ſpi<g ref="char:EOLhyphen"/>rits into the body.</p>
+            <p>Three ſeeds of coloquintida in powder purge as much as twelve ſeeds whole. This at the firſt ſight ſhould ſeeme to be an argument to prove that it is the ſubſtance of things that worketh: but when we ſeri<g ref="char:EOLhyphen"/>ouſly conſider that the ſeeds whole do alſo worke, although not ſo pow<g ref="char:EOLhyphen"/>erfully, and that purging medicines do alſo work by outward applica<g ref="char:EOLhyphen"/>cation, we muſt conclude that the reaſon why the ſeeds powdered worke more than the ſeeds whole, is becauſe the ſpirits of medicines being lock'd cloſer up in their parts do diſperſe themſelves but mode<g ref="char:EOLhyphen"/>rately,
+<pb n="142" facs="tcp:170299:78"/> whereas after they are ope<g ref="char:EOLhyphen"/>ned, and their parts ſeparated they doe fly away with more alacrity<g ref="char:punc">▪</g> hence it is that all manner of drugs, if they be kept entire doe retain their virtues longer then when they are powdered. Here we may take notice of a vulgar errour which is generally received concerning the virtues of ſimples, which they ſay are either actually or in power: as if the body did reduce them out of power into act. I confeſſe the heat and moiſture of the body may ſo ſoften them and open their parts, that they may ſpend their virtues faſter, no otherwiſe than as if they were infu<g ref="char:EOLhyphen"/>ſed or decocted: but I deny that there is any eſſentiall difference between their power and their ac<g ref="char:EOLhyphen"/>tion: becauſe they do alwaies act, although according to ſeverall cir<g ref="char:EOLhyphen"/>cumſtances with more or leſſe vi<g ref="char:EOLhyphen"/>gour<g ref="char:punc">▪</g> 
+               <hi>but this concerns not our preſent purpoſe.</hi>
+            </p>
+            <pb n="143" facs="tcp:170299:78"/>
+            <p>Thoſe things that alter the body doe not onely in a generall way make evident theſe poſitions which we have delivered, in that it doth plainly appeare that it is their ſpirits which doe act upon the ſpirits of mans body <hi>&amp;c.</hi> But they doe alſo confirme the ſame if we conſider them ſeverally in their private and particular operations<g ref="char:punc">▪</g> 
+               <hi>as for ex<g ref="char:EOLhyphen"/>ample.</hi>
+            </p>
+            <p>Cordials, and ſuch things as are ſpirituous are commonly given with good ſucceſſe indifferently unto all that faint and ſwound away: al<g ref="char:EOLhyphen"/>though ſuch like fainting or ſwoun<g ref="char:EOLhyphen"/>ding in ſeveral perſons doth proceed from ſeverall cauſes, the reaſon of this is becauſe the reſult of all things which do injury to the body is the fixing, ſtopping, or intercepting of the ſpirits<g ref="char:punc">▪</g> ſo that ſuch like cordials which have power to reſcue the ar<g ref="char:EOLhyphen"/>reſted ſpirits, do for the preſent re<g ref="char:EOLhyphen"/>vive<pb n="144" facs="tcp:170299:79"/> the body, in that they doe move the ſaid ſpirits which are the cauſe of all other motion.</p>
+            <p>Thoſe things which doe violently purge, if they be given without any preparative unto thoſe bodies where<g ref="char:EOLhyphen"/>in there is a tenacity of humours, they doe commonly cauſe <hi>Syncopes</hi> or ſudden faintings away. The reaſon is becauſe the atomes of ſuch like purging medicines, finding thoſe paſſages bolted up through which they ſhould enter into the inteſtines, are immediately carryed into the nerves, where they doe intercept, or confound the regular motion of the ſpirits. The reaſon alſo wherefore purging and vomiting medicines do oftentimes procure ſweat, is becauſe their ſpirits are carryed into the nerves.</p>
+            <p>
+               <hi>Opium</hi> doth allay pain: and doth cauſe ſleep, the reaſon of the firſt is, becauſe it thickens the ſpirits and
+<pb n="146" facs="tcp:170299:79"/> intercepts their motion towards the brain. The reaſon of the ſecond alſo is, becauſe it doth, by condenſing the ſpirits, ſhut up the ſenſories.</p>
+            <p>Thoſe things which are drying and aſtringent as china, guajacum, ſarſaparilla, conſerve of red roſes vitriolated <hi>&amp;c.</hi> do oftentimes prove analepticall. The reaſon is, becauſe they do fix the ſpirits which are the chief inſtruments of nutrition.</p>
+            <p>Camphor cauſeth ſleep, by atte<g ref="char:EOLhyphen"/>nuating the ſpirits and cauſing ex<g ref="char:EOLhyphen"/>pence thereof.</p>
+            <p>Milke, and ſome other things which being eaten are ſtraightway converted into a milky nature as almonds, the foure greater cooling ſeeds <hi>&amp;c.</hi> do reſiſt drunkenneſſe. The reaſon is, becauſe they do pre<g ref="char:EOLhyphen"/>cipitate the ſpirituous part of beer, wine, or any other liquor, which would ſly up into the brain, and diſturbe the regular motion of the
+<pb n="147" facs="tcp:170299:80"/> ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s. <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o we ſee poſſet drink is leſſe vapo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous than beer or ale, becauſe the ſp<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s of the ſaid beer or ale are pre<g ref="char:EOLhyphen"/>cipitated with milke.</p>
+            <p>
+               <hi>S<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l P<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>unellae,</hi> Vinegar, and al acide juices are proficuous in peſti<g ref="char:EOLhyphen"/>lentiall diſeaſes. The reaſon is, be<g ref="char:EOLhyphen"/>cauſe they do precipitate that mer<g ref="char:EOLhyphen"/>curiall vapour which doth intercept the motion of the ſpirits. No other<g ref="char:EOLhyphen"/>wiſe than <hi>Aqua fortis,</hi> which is made of vitriol and ſaltpeter, doth precipitate and tame quickſilver, and make it leſſe fluid and vaporous.</p>
+            <p>New milke warme from the cow, and milke ſuck'd from a womans breaſt is a great reſtorative. The rea<g ref="char:EOLhyphen"/>ſon is, becauſe it doth in a more than ordinary manner increaſe the ſpirits which are the chief inſtru<g ref="char:EOLhyphen"/>ments of nutrition.</p>
+            <p>Thoſe things which are knowne by experience to be hurtfull to the eyes, and to dimme the ſight, as
+<pb n="148" facs="tcp:170299:80"/> garlick, lettice, colewort <hi>&amp;c.</hi> do it upon no other account than by thickning the viſive ſpirits: and on the contrary where the eye ſight is not perfect, it is oftentimes helped by ſuch things as do rarifie the ſaid ſpirits, as fennell, betony, Eyebright &amp;c. Here we muſt take notice that condenſation and rarefaction are not of themſelves hurtfull or profitable to the ſight, but as they do retard or accelerate the motion of the vi<g ref="char:EOLhyphen"/>ſive ſpirits which is the next and im<g ref="char:EOLhyphen"/>mediate cauſe of ſeeing, they do by conſequence become hurtfull or pro<g ref="char:EOLhyphen"/>fitable,</p>
+            <p>The water of the ſperm of froggs preventeth the ſpreading of a gan<g ref="char:EOLhyphen"/>grene, by intercepting the ſpirits, which would carry the ſeptick quality of the extreme part gan<g ref="char:EOLhyphen"/>grenated nearer unto the centre of the body.</p>
+            <p>In contuſed wounds the part is
+<pb n="149" facs="tcp:170299:81"/> preſerved from mortification by in<g ref="char:EOLhyphen"/>jecting of ſpirit of wine into the wound, or fomenting the part there<g ref="char:EOLhyphen"/>with: the reaſon is becauſe it doth both comfort the ſpirits &amp; rarefie the pores, that ſo the motion of the ſpirits in the part may not be hindred.</p>
+            <p>Adde hereunto the virtue of ac<g ref="char:EOLhyphen"/>tual heat in any manner of diſtemper whatſoever either outward or in<g ref="char:EOLhyphen"/>ward. They that are well verſed in chirurgicall operations cannot but know the efficacy of hot ſtupes. And ſo in feaveriſh diſtempers thoſe things which are given actually hot, provided they nouriſh not too much, do ſooner quench thirſt, and abate the praeternatural heat of the body, than cooling Iulapes. The reaſon is, becauſe heat doth open the pores and by conſequence make way for the ſpirits to move.</p>
+            <p>
+               <hi>This motion of the ſpirits, Cour<g ref="char:EOLhyphen"/>teour Reader, is that we did intend,
+<pb n="150" facs="tcp:170299:81"/> in this inconſiderable treatiſe, to pro<g ref="char:EOLhyphen"/>pound unto thee. Wherewith we were loath on a ſudden to interrupt thee: thinking it more convenient firſt to broach ſome tenets, which are involved in it, under the notion of</hi> Paradoxes. <hi>Yet we preſume that up<g ref="char:EOLhyphen"/>on ſerious conſideration thou wilt looke upon all we have here written as</hi> Orthodox. <hi>And that for two rea<g ref="char:EOLhyphen"/>ſons. Firſt, becauſe all operations of externall things upon mans body are reducible to reaſon upon this ac<g ref="char:EOLhyphen"/>count. And ſecondly becauſe there is no contradiction in the whole</hi> Series <hi>of our diſcourſe, but each poſition doth ſo confirme another, that in the whole there is ſuch a ſymmetrie as doth become the ſimplicity of truth.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
